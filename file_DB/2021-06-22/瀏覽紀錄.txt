@@ -1,0 +1,722 @@
+YouTube
+https://www.youtube.com/
+
+禮恩傳了訊息給你
+https://www.facebook.com/saved/?cref=28
+
+國立宜蘭大學 數位學習園區
+https://eschool.niu.edu.tw/mooc/index.php
+
+20201208 113353 - YouTube
+https://www.youtube.com/watch?v=RfaYO44bBWc
+
+智慧問答 python - Google 搜尋
+https://www.google.com/search?q=%E6%99%BA%E6%85%A7%E5%95%8F%E7%AD%94+python&oq=%E6%99%BA%E6%85%A7%E5%95%8F%E7%AD%94+python&aqs=chrome..69i57.2225j0j1&sourceid=chrome&ie=UTF-8
+
+AI問答：Python編程真的是未來人工智慧的主流嗎？ - 每日頭條
+https://kknews.cc/zh-tw/code/zkg3zxg.html
+
+雲林SONG: 簡易 Python 問答機器人(Simple Python QA Robot)
+https://yunlinsong.blogspot.com/2020/01/python-simple-python-qa-robot.html
+
+搜尋引擎 python - Google 搜尋
+https://www.google.com/search?q=%E6%90%9C%E5%B0%8B%E5%BC%95%E6%93%8E+python&oq=%E6%90%9C%E5%B0%8B%E5%BC%95%E6%93%8E+python&aqs=chrome..69i57.5254j0j1&sourceid=chrome&ie=UTF-8
+
+Python 爬蟲 搜尋引擎 - Google 搜尋
+https://www.google.com/search?sxsrf=ALeKk00fgXyYGsBUVJ2Be_aY4KHpN-eMbg:1623590341715&q=Python+%E7%88%AC%E8%9F%B2+%E6%90%9C%E5%B0%8B%E5%BC%95%E6%93%8E&sa=X&ved=2ahUKEwj9gtCs2ZTxAhWIyosBHR1qAPwQ1QIwCnoECAwQAQ
+
+Python 爬蟲從入門到進階之路（一） - IT閱讀
+https://www.itread01.com/content/1560912542.html
+
+用python做一個搜尋引擎(Pylucene)的例項程式碼 | 程式前沿
+https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/365130/
+
+python 手把手教你基於搜尋引擎實現文章查重 | IT人
+https://iter01.com/528307.html
+
+python實現餘弦相似度文本比較- 醉曦- 博客園
+https://www.cnblogs.com/zuixime0515/p/9206861.html
+
+1_bit / S-AnalyseToolDemo · CODE CHINA
+https://codechina.csdn.net/A757291228/s-analysetooldemo
+
+Python 实现简单的搜索引擎 - 知乎
+https://zhuanlan.zhihu.com/p/153442306
+
+如何自己动手写一个搜索引擎？ - 知乎
+https://zhuanlan.zhihu.com/p/52938906
+
+搜索引擎--Python爬虫部分（一） - 知乎
+https://zhuanlan.zhihu.com/p/25783241
+
+Python 实现简单的搜索引擎 - 知乎
+https://zhuanlan.zhihu.com/p/153442306
+
+搜索算法 in Python - 知乎
+https://zhuanlan.zhihu.com/p/60141947
+
+如何自己动手写一个搜索引擎？ - 知乎
+https://zhuanlan.zhihu.com/p/52938906
+
+python @ 用法 - Google 搜尋
+https://www.google.com/search?q=python+%40+%E7%94%A8%E6%B3%95&sxsrf=ALeKk010sTWRkMPvCdmu1PKTdwtKM13akw%3A1623590665843&ei=CQfGYMSLM6m9mAX6m4WoBQ&oq=python+%40+&gs_lcp=Cgdnd3Mtd2l6EAEYATICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADIFCAAQywE6CQgAELADEAcQHjoFCAAQsANQuBBYuBBg5BdoAHAAeACAAf0DiAHrBJIBBTIuNS0xmAEAoAEBqgEHZ3dzLXdpesgBCsABAQ&sclient=gws-wiz
+
+【python入門教室】(4) 超完整的python字串函數用法統整 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天
+https://ithelp.ithome.com.tw/articles/10230805
+
+關於Python 的@操作符Decorator 的用法_Multiangle's Notepad-CSDN博客
+https://blog.csdn.net/u014595019/article/details/49725727
+
+Python @函數裝飾器及用法（超級詳細）
+http://c.biancheng.net/view/2270.html
+
+文件分群 文件分群 - Google 搜尋
+https://www.google.com/search?q=%E6%96%87%E4%BB%B6%E5%88%86%E7%BE%A4+%E6%96%87%E4%BB%B6%E5%88%86%E7%BE%A4&oq=%E6%96%87%E4%BB%B6%E5%88%86%E7%BE%A4+%E6%96%87%E4%BB%B6%E5%88%86%E7%BE%A4&aqs=chrome..69i57j0i333.3382j0j1&sourceid=chrome&ie=UTF-8
+
+文件分群 python - Google 搜尋
+https://www.google.com/search?q=%E6%96%87%E4%BB%B6%E5%88%86%E7%BE%A4+python&sxsrf=ALeKk02gZQfa5u-ZIJEqvdW9uIL9_1JNsg%3A1623591229636&ei=PQnGYJWLJpXemAWd7YDQAQ&oq=%E6%96%87%E4%BB%B6%E5%88%86%E7%BE%A4+python&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEM0CMgUIABDNAjoECCMQJzoGCAAQBxAeOgYIABAFEB46BgghEAoQKlCTD1jiLGCSLmgEcAB4AIABTogB3gSSAQIxMJgBAKABAaoBB2d3cy13aXrAAQE&sclient=gws-wiz&ved=0ahUKEwjVnYLU3JTxAhUVL6YKHZ02ABoQ4dUDCA4&uact=5
+
+Scikit-Learn 教學：Python 與機器學習 - DataCamp
+https://www.datacamp.com/community/tutorials/scikit-learn-python
+
+分群演算法理論 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天
+https://ithelp.ithome.com.tw/articles/10193760?sc=iThelpR
+
+Google
+https://www.google.com/?hl=zh_tw
+
+driver.find_element_by_id chrome - Google 搜尋
+https://www.google.com/search?q=driver.find_element_by_id+chrome&sxsrf=ALeKk02hcfwa3UCRCYon504HrRdTNrGh3w%3A1623592293146&ei=ZQ3GYOGrCJ2Vr7wPgq-xuAo&oq=driver.find_element_by_id+chrome&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEM0CMgUIABDNAjIFCAAQzQI6BwgjELADECc6CQgAELADEAcQHjoLCAAQsAMQBxAKEB46CAgAELADEMsBOgUIABDLAToECAAQHjoFCCEQoAE6BwghEAoQoAFQvwFYtyZgxydoAHAAeACAAWmIAdQEkgEDOC4xmAEAoAEBqgEHZ3dzLXdpesgBCsABAQ&sclient=gws-wiz&ved=0ahUKEwih8pHP4JTxAhWdyosBHYJXDKcQ4dUDCA4&uact=5
+
+Day20 Python 爬蟲 Selenium - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天
+https://ithelp.ithome.com.tw/articles/10249582
+
+Selenium模擬操作中按鈕點選（click) 失效解決方法 - IT閱讀
+https://www.itread01.com/content/1543567399.html
+
+Command "python setup.py egg_info" failed with error code 1 in C:\Users\bdlab\AppData\Local\Temp\pip-install-f9s6x7vh\BeautifulSoup\ - Google 搜尋
+https://www.google.com/search?q=Command+%22python+setup.py+egg_info%22+failed+with+error+code+1+in+C%3A%5CUsers%5Cbdlab%5CAppData%5CLocal%5CTemp%5Cpip-install-f9s6x7vh%5CBeautifulSoup%5C&oq=Command+%22python+setup.py+egg_info%22+failed+with+error+code+1+in+C%3A%5CUsers%5Cbdlab%5CAppData%5CLocal%5CTemp%5Cpip-install-f9s6x7vh%5CBeautifulSoup%5C&aqs=chrome..69i57.680j0j1&sourceid=chrome&ie=UTF-8
+
+如何解決Command "python setup.py egg_info" failed with error code 1 in \AppData\Local\Temp\pip-i_bc521bc的博客-CSDN博客
+https://blog.csdn.net/bc521bc/article/details/81213441
+
+pip beautifulsoup - Google 搜尋
+https://www.google.com/search?q=pip+beautifulsoup&oq=pip+b&aqs=chrome.1.69i57j0l5j69i60l2.4943j0j1&sourceid=chrome&ie=UTF-8
+
+beautifulsoup4 · PyPI
+https://pypi.org/project/beautifulsoup4/
+
+selenium.webdriver.support.ui - Google 搜尋
+https://www.google.com/search?q=selenium.webdriver.support.ui&oq=selenium.webdriver.support.ui&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8
+
+Python ui.Select方法代碼示例 - 純淨天空
+https://vimsky.com/zh-tw/examples/detail/python-method-selenium.webdriver.support.ui.Select.html
+
+python lambda - Google 搜尋
+https://www.google.com/search?q=python+lambda&oq=python+lambda&aqs=chrome..69i57j0l9.1611j0j1&sourceid=chrome&ie=UTF-8
+
+[Python教學]Python Lambda Function應用技巧分享
+https://www.learncodewithmike.com/2019/12/python-lambda-functions.html
+
+Lambda函式 - 輕鬆學Python 3 零基礎彩色圖解、專業入門
+https://sites.google.com/site/ezpythoncolorcourse/lambdafunction
+
+python - u - Google 搜尋
+https://www.google.com/search?q=python+-+u&oq=python+-+u&aqs=chrome..69i57j0i19i30l4j69i60l3.5361j0j1&sourceid=chrome&ie=UTF-8
+
+[Python][Python3] 字串前 加 u、r、b 的意義 @ 葛瑞斯肯樂活筆記 :: 痞客邦 ::
+https://xken831.pixnet.net/blog/post/468665216-%5Bpython%5D-python%E5%AD%97%E4%B8%B2%E5%89%8D-%E5%8A%A0-u%E3%80%81r%E3%80%81b-%E7%9A%84%E6%84%8F%E7%BE%A9
+
+解析python 命令的-u參數_wonengguwozai的博客-CSDN博客
+https://blog.csdn.net/wonengguwozai/article/details/81668240
+
+ui.WebDriverWait - Google 搜尋
+https://www.google.com/search?q=ui.WebDriverWait&oq=ui.WebDriverWait&aqs=chrome..69i57j0i30j0i5i10i30.754j0j1&sourceid=chrome&ie=UTF-8
+
+5. 等待页面加载完成(Waits) — Selenium-Python中文文档 2 documentation
+https://selenium-python-zh.readthedocs.io/en/latest/waits.html
+
+wait = WebDriverWait(driver, 10) 沒有用 - Google 搜尋
+https://www.google.com/search?q=wait+%3D+WebDriverWait(driver%2C+10)+%E6%B2%92%E6%9C%89%E7%94%A8&oq=wait+%3D+WebDriverWait(driver%2C+10)+%E6%B2%92%E6%9C%89%E7%94%A8&aqs=chrome..69i57.4151j0j1&sourceid=chrome&ie=UTF-8
+
+python selenium+webdriver三種等待時間方式 - 台部落
+https://www.twblogs.net/a/5b8489e22b71775d1cd11fa1
+
+5.等待事件 - selenium-python中文文档
+https://python-selenium-zh.readthedocs.io/zh_CN/latest/5.Waits/
+
+Implicit Wait 與 Explicit Wait 的區別 – 科科和測試
+https://kkboxsqa.wordpress.com/2017/06/16/the-difference-between-implicit-wait-and-explicit-wait/
+
+Web自動化測試 五 ----- selenium的等待和切換 | IT人
+https://iter01.com/433181.html
+
+Selenium3種等待方式（二）（精述篇）-有解無憂 - Google 搜尋
+https://www.google.com/search?q=Selenium3%E7%A8%AE%E7%AD%89%E5%BE%85%E6%96%B9%E5%BC%8F%EF%BC%88%E4%BA%8C%EF%BC%89%EF%BC%88%E7%B2%BE%E8%BF%B0%E7%AF%87%EF%BC%89-%E6%9C%89%E8%A7%A3%E7%84%A1%E6%86%82&oq=Selenium3%E7%A8%AE%E7%AD%89%E5%BE%85%E6%96%B9%E5%BC%8F%EF%BC%88%E4%BA%8C%EF%BC%89%EF%BC%88%E7%B2%BE%E8%BF%B0%E7%AF%87%EF%BC%89-%E6%9C%89%E8%A7%A3%E7%84%A1%E6%86%82&aqs=chrome..69i57j69i61&sourceid=chrome&ie=UTF-8
+
+Selenium中的三種等待方式_WAIT Y 的博客-CSDN博客
+https://blog.csdn.net/x83853684/article/details/110262009
+
+UnicodeDecodeError: 'cp950' codec can't decode byte 0xe6 in position 0: illegal multibyte sequence - Google 搜尋
+https://www.google.com/search?q=UnicodeDecodeError%3A+%27cp950%27+codec+can%27t+decode+byte+0xe6+in+position+0%3A+illegal+multibyte+sequence&oq=UnicodeDecodeError%3A+%27cp950%27+codec+can%27t+decode+byte+0xe6+in+position+0%3A+illegal+multibyte+sequence&aqs=chrome..69i57j69i58.890j0j1&sourceid=chrome&ie=UTF-8
+
+[問題] python讀檔時不認得中文字？ - 看板 Python - 批踢踢實業坊
+https://www.ptt.cc/bbs/Python/M.1412756706.A.390.html
+
+find_element_by_xpath python - Google 搜尋
+https://www.google.com/search?q=find_element_by_xpath+python&oq=find_element_by_xpath+&aqs=chrome.1.69i57j0l9.4271j0j1&sourceid=chrome&ie=UTF-8
+
+4. 查找元素— Selenium-Python中文文檔2 documentation
+https://selenium-python-zh.readthedocs.io/en/latest/locating-elements.html
+
+XML - Google 搜尋
+https://www.google.com/search?q=XML&oq=XML&aqs=chrome..69i57j69i65&sourceid=chrome&ie=UTF-8
+
+XML - Wikiwand
+https://www.wikiwand.com/zh-tw/XML
+
+WebDriverWait(self.browser,timeout=30,poll_frequency=1).until(EC.presence_of_element_located((By.ID, "page"))) - Google 搜尋
+https://www.google.com/search?q=WebDriverWait(self.browser%2Ctimeout%3D30%2Cpoll_frequency%3D1).until(EC.presence_of_element_located((By.ID%2C+%22page%22)))&oq=WebDriverWait(self.browser%2Ctimeout%3D30%2Cpoll_frequency%3D1).until(EC.presence_of_element_located((By.ID%2C+%22page%22)))&aqs=chrome..69i57.888j0j1&sourceid=chrome&ie=UTF-8
+
+Python By.TAG_NAME屬性代碼示例 - 純淨天空
+https://vimsky.com/zh-tw/examples/detail/python-attribute-selenium.webdriver.common.by.By.TAG_NAME.html
+
+WebDriverWait - Google 搜尋
+https://www.google.com/search?q=WebDriverWait&oq=WebDriverWait&aqs=chrome..69i57j35i39j0l8.4269j0j1&sourceid=chrome&ie=UTF-8
+
+5. 等待页面加载完成(Waits) — Selenium-Python中文文档 2 documentation
+https://selenium-python-zh.readthedocs.io/en/latest/waits.html
+
+11顆自然系惡魔果實詳解：四皇黑鬍子的BUG能力！海軍三大將毀天滅地 - YouTube
+https://www.youtube.com/watch?v=hYIlLzPMDH8
+
+國立宜蘭大學 數位學習園區
+https://eschool.niu.edu.tw/learn/index.php
+
+SVM - Google 搜尋
+https://www.google.com/search?q=SVM&sxsrf=ALeKk0198hl_BedL0oCtsULqp26YnVr_YA%3A1623845029780&ei=pejJYMSHL8jAoASSprrQAQ&oq=SVM&gs_lcp=Cgdnd3Mtd2l6EAMyBwgAELEDEEMyBAgAEEMyCAgAELEDEIMBMgQIABBDMgQIABBDMgIIADICCAAyAggAMgIIADIICAAQsQMQgwE6BAgjECc6BwgjECcQiwM6BQgAELEDULCjBljuqQZg2qwGaABwAngAgAF3iAGTApIBAzMuMZgBAKABAaoBB2d3cy13aXq4AQLAAQE&sclient=gws-wiz&ved=0ahUKEwiE7q2RjpzxAhVIIIgKHRKTDhoQ4dUDCA4&uact=5
+
+[資料分析&機器學習] 第3.4講：支援向量機(Support Vector Machine)介紹 | by Yeh James | JamesLearningNote | Medium
+https://medium.com/jameslearningnote/%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E7%AC%AC3-4%E8%AC%9B-%E6%94%AF%E6%8F%B4%E5%90%91%E9%87%8F%E6%A9%9F-support-vector-machine-%E4%BB%8B%E7%B4%B9-9c6c6925856b
+
+matpoltlib - Google 搜尋
+https://www.google.com/search?q=matpoltlib+&tbm=isch&ved=2ahUKEwih3aC9j5zxAhUD15QKHQxFApMQ2-cCegQIABAA&oq=matpoltlib+&gs_lcp=CgNpbWcQA1DiC1jTWWCGW2gAcAB4AIABNYgB8gGSAQE1mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=DurJYKGeEIOu0wSMiomYCQ&bih=937&biw=1920#imgrc=1PoRo3bY5HlW-M
+
+計算train時間 - Google 搜尋
+https://www.google.com/search?q=%E8%A8%88%E7%AE%97train%E6%99%82%E9%96%93&oq=%E8%A8%88%E7%AE%97train%E6%99%82%E9%96%93&aqs=chrome..69i57.17281j1j1&sourceid=chrome&ie=UTF-8
+
+Python 計算程式執行多久程式碼 - IT閱讀
+https://www.itread01.com/content/1545583517.html
+
+計算推理時間 - Google 搜尋
+https://www.google.com/search?q=%E8%A8%88%E7%AE%97%E6%8E%A8%E7%90%86%E6%99%82%E9%96%93&sxsrf=ALeKk00bnh-0_DZ45Vg-TCymfmWdfEc4xQ%3A1623845481922&ei=aerJYPLnN9jM-Qb3lKfwDQ&oq=%E8%A8%88%E7%AE%97%E6%8E%A8%E7%90%86%E6%99%82%E9%96%93&gs_lcp=Cgdnd3Mtd2l6EAM6BwgjELADECc6BQgAEM0COggIABAHEAQQHjoKCAAQCBAHEAQQHlDRCFjcKGDaKmgBcAB4AIABVIgBnQaSAQIxM5gBAKABAaoBB2d3cy13aXrIAQHAAQE&sclient=gws-wiz&ved=0ahUKEwiywProj5zxAhVYZt4KHXfKCd4Q4dUDCA4&uact=5
+
+深度学习模型推理时间与FPS的求取方法，以及time，OpenCV的API教程_千与千寻ML-CSDN博客_深度学习推理时间
+https://blog.csdn.net/baidu_39629638/article/details/107751607
+
+ieba.analyse.textrank - Google 搜尋
+https://www.google.com/search?q=ieba.analyse.textrank&oq=ieba.analyse.textrank&aqs=chrome..69i57.524j0j1&sourceid=chrome&ie=UTF-8
+
+fxsjy/jieba: 結巴中文分詞
+https://github.com/fxsjy/jieba
+
+提取關鍵字 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天
+https://ithelp.ithome.com.tw/articles/10204535
+
+jieba庫學習：jieba分詞，詞性標註等 - 台部落
+https://www.twblogs.net/a/5ee69d6ce2c8817f2d50df6e
+
+利用jieba进行中文分词制作词云 - 知乎
+https://zhuanlan.zhihu.com/p/367034176
+
+jieba源碼研讀筆記（十七） - 關鍵詞提取之TF-IDF_keineahnung2345的博客-CSDN博客
+https://blog.csdn.net/keineahnung2345/article/details/88125834
+
+NLP基本工具之jieba：關鍵詞提取、詞性標註- 雲+社區- 騰訊雲
+https://cloud.tencent.com/developer/article/1621048
+
+textrank vs tf-idf - Google 搜尋
+https://www.google.com/search?q=textrank+vs+tf-idf&sxsrf=ALeKk01FYHn5-Fg9Q4EELQ1Y46MMNbhQ3A%3A1623600999927&ei=Zy_GYIOcOIzj0ASym7gI&oq=textrank+&gs_lcp=Cgdnd3Mtd2l6EAEYBTIECCMQJzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADoFCAAQsAM6BQgAEMsBOgQIABAeUMXeC1jC4Qtg0fMLaAJwAHgAgAFGiAG0AZIBATOYAQCgAQGqAQdnd3Mtd2l6yAEBwAEB&sclient=gws-wiz
+
+關鍵詞抽取算法介紹：TF-IDF和TextRank - 台部落
+https://www.twblogs.net/a/5bfb6066bd9eee7aed33091b
+
+Python的jieba分词及TF-IDF和TextRank 算法提取关键字_xw__cqx的博客-CSDN博客_jieba textrank
+https://blog.csdn.net/bozhanggu2239/article/details/80157305
+
+os.walk(rootdir) - Google 搜尋
+https://www.google.com/search?q=os.walk(rootdir)&oq=os.walk(rootdir)&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8
+
+Python：使用os.walk() 遞迴印出資料夾中所有目錄及檔名 @ 符碼記憶
+https://www.ewdna.com/2012/04/pythonoswalk.html
+
+python with open - Google 搜尋
+https://www.google.com/search?q=python+with+open&oq=python+with+open&aqs=chrome.0.0l6j69i60j69i65.4465j0j1&sourceid=chrome&ie=UTF-8
+
+python 使用 with open（） as 讀寫檔案 - IT閱讀
+https://www.itread01.com/content/1549615343.html
+
+run django - Google 搜尋
+https://www.google.com/search?q=run+django&oq=run+dja&aqs=chrome.1.69i57j0l9.5330j0j1&sourceid=chrome&ie=UTF-8
+
+架設 Django 開發環境 - 學習該如何開發 Web | MDN
+https://developer.mozilla.org/zh-TW/docs/Learn/Server-side/Django/development_environment
+
+django 檔案上傳 - Google 搜尋
+https://www.google.com/search?q=django+%E6%AA%94%E6%A1%88%E4%B8%8A%E5%82%B3&oq=dejango+%E7%95%B6%E6%8C%89&aqs=chrome.1.69i57j0i13l2.9227j0j1&sourceid=chrome&ie=UTF-8
+
+Django檔案上傳和圖片上傳 - IT閱讀
+https://www.itread01.com/content/1542737403.html
+
+Django上傳文件 - Django教程教學 | 程式教程網
+https://www.1ju.org/django/django-file-uploading
+
+ajax 檔案 - Google 搜尋
+https://www.google.com/search?q=ajax+%E7%95%B6%E6%8C%89&oq=ajax+%E7%95%B6%E6%8C%89&aqs=chrome..69i57j0i13l2j69i64.32281j0j1&sourceid=chrome&ie=UTF-8
+
+ajax使用FormData物件上傳檔案-教學撰寫:徐嘉裕Neil hsu
+https://neohsuxoops.blogspot.com/2018/11/ajaxformdata.html
+
+html 檔案上傳 - Google 搜尋
+https://www.google.com/search?q=html+%E6%AA%94%E6%A1%88%E4%B8%8A%E5%82%B3&oq=html+%E6%AA%94%E6%A1%88&aqs=chrome.1.69i57j0l4j69i65l2j69i60.7856j0j1&sourceid=chrome&ie=UTF-8
+
+# 如何實作上傳檔案功能 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天
+https://ithelp.ithome.com.tw/articles/10229239
+
+最簡單的html檔案上傳示例 - IT閱讀
+https://www.itread01.com/content/1545529887.html
+
+[JS] 透過 JavaScript 處理檔案上傳（AJAX Upload byte / JSON / formData File） ~ PJCHENder<br>那些沒告訴你的小細節
+https://pjchender.blogspot.com/2019/01/js-javascript-input-file-upload-file.html
+
+HTML5 上傳檔案 - Google 搜尋
+https://www.google.com/search?sxsrf=ALeKk02ZE-YwAc8WUhMSvNNoifus7I92yg:1623618213258&q=HTML5+%E4%B8%8A%E5%82%B3%E6%AA%94%E6%A1%88&sa=X&ved=2ahUKEwio9-eWwZXxAhUrCqYKHXZvAkYQ1QIwC3oECBMQAQ
+
+Html5 檔案上傳 | IT人
+https://iter01.com/196460.html
+
+html5demo/list.js at master · xiaoshenge/html5demo
+https://github.com/xiaoshenge/html5demo/blob/master/file/js/list.js
+
+[HTML5] 帶進度條的上傳檔案 @ 自由手記 :: 痞客邦 ::
+https://king39461.pixnet.net/blog/post/346221400
+
+ajax django 檔案上傳 - Google 搜尋
+https://www.google.com/search?q=ajax+django+%E6%AA%94%E6%A1%88%E4%B8%8A%E5%82%B3&sxsrf=ALeKk007n5wRCdacgv8fr1eTda3fqKRVlQ%3A1623618833705&ei=EXXGYN67KoPpmAWIxa3oBA&oq=ajax+django+%E6%AA%94%E6%A1%88%E4%B8%8A%E5%82%B3&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEM0COgQIABBDOgIIADoGCAAQBxAeUPEQWNWLAWCQjQFoBXAAeACAAbQBiAHnCpIBBDE5LjKYAQCgAQGqAQdnd3Mtd2l6wAEB&sclient=gws-wiz&ved=0ahUKEwieiNW-w5XxAhWDNKYKHYhiC00Q4dUDCA8&uact=5
+
+Django JQuery Ajax檔案上傳 - Codebug
+https://t.codebug.vip/questions-3066382.htm
+
+AJAX和from-上傳檔案示例【django專案】 - IT閱讀
+https://www.itread01.com/content/1543975213.html
+
+通過Django的form及Ajax等多種方式上傳檔案 - IT閱讀
+https://www.itread01.com/content/1544824091.html
+
+django+jquery 用post方式上傳檔案採坑記錄 | IT人
+https://iter01.com/579037.html
+
+day56:django:csrf_token&檔案上傳 | IT人
+https://iter01.com/533394.html
+
+AJAX和from-上傳文件示例【django項目】 - 台部落
+https://www.twblogs.net/a/5c07d01fbd9eee6fb212b8d2
+
+Ajax發送、上傳文件，Django後端接收、獲取文件_wangjinyu124419的博客-CSDN博客
+https://blog.csdn.net/u011519550/article/details/102882537
+
+File Uploads | Django documentation | Django
+https://docs.djangoproject.com/en/2.2/topics/http/file-uploads/#basic-file-uploads
+
+Django中的檔案上傳- 楚阿旗- 博客園
+https://www.cnblogs.com/jbite9057/p/11855592.html
+
+1. Django系列之Django與ajax上傳文件- 溫柔易淡- 博客園
+https://www.cnblogs.com/liaojiafa/p/6231382.html
+
+Django系列之Django與ajax上傳文件 - Google 搜尋
+https://www.google.com/search?q=Django%E7%B3%BB%E5%88%97%E4%B9%8BDjango%E8%88%87ajax%E4%B8%8A%E5%82%B3%E6%96%87%E4%BB%B6&oq=Django%E7%B3%BB%E5%88%97%E4%B9%8BDjango%E8%88%87ajax%E4%B8%8A%E5%82%B3%E6%96%87%E4%BB%B6&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8
+
+Django系列之Django與ajax上傳文件_longe20111104的博客-CSDN博客
+https://blog.csdn.net/longe20111104/article/details/106009780
+
+python import settings - Google 搜尋
+https://www.google.com/search?q=python+import+settings&oq=python+import+set&aqs=chrome.0.0j69i57j0l3j0i30l5.18395j0j1&sourceid=chrome&ie=UTF-8
+
+python-settings · PyPI
+https://pypi.org/project/python-settings/
+
+import settings 錯誤_WJ_MeiMei的博客-CSDN博客_import settings
+https://blog.csdn.net/WJ_MeiMei/article/details/85305907
+
+python - Create constants using a "settings" module? - Stack Overflow
+https://stackoverflow.com/questions/3824455/create-constants-using-a-settings-module
+
+python-settings · PyPI
+https://pypi.org/project/python-settings/
+
+python_settings.exceptions.ImproperlyConfigured: Requested setting BASE_DIR, but settings are not configured. You must either define the environment variable SETTINGS_MODULE or call settings.configure() before accessing settings - Google 搜尋
+https://www.google.com/search?q=python_settings.exceptions.ImproperlyConfigured%3A+Requested+setting+BASE_DIR%2C+but+settings+are+not+configured.+You+must+either+define+the+environment+variable+SETTINGS_MODULE+or+call+settings.configure()+before+accessing+settings&oq=python_settings.exceptions.ImproperlyConfigured%3A+Requested+setting+BASE_DIR%2C+but+settings+are+not+configured.+You+must+either+define+the+environment+variable+SETTINGS_MODULE+or+call+settings.configure()+before+accessing+settings&aqs=chrome..69i57.873j0j1&sourceid=chrome&ie=UTF-8
+
+python - ImproperlyConfigured：在訪問設置之前，您必須定義環境變量 DJANGO_SETTINGS_MODULE 或調用 settings.configure()_python_幫酷編程問答
+https://stackoverflow.com/questions/26082128/improperlyconfigured-you-must-either-define-the-environment-variable-django-set
+
+python - Django DB設置'配置不當'錯誤 - VoidCC
+https://stackoverflow.com/questions/15556499/django-db-settings-improperly-configured-error/46516080
+
+html上傳檔案部刷新 - Google 搜尋
+https://www.google.com/search?q=html%E4%B8%8A%E5%82%B3%E6%AA%94%E6%A1%88%E9%83%A8%E5%88%B7%E6%96%B0&oq=html%E4%B8%8A%E5%82%B3%E6%AA%94%E6%A1%88%E9%83%A8%E5%88%B7%E6%96%B0&aqs=chrome..69i57j0i333l3.9224j0j1&sourceid=chrome&ie=UTF-8
+
+三種上傳文件不刷新頁面的方法討論：iframe/FormData/FileReader - 會編程的銀豬- 博客園
+https://www.cnblogs.com/yincheng/p/5011441.html
+
+實現單文件上傳,頁面局部刷新_不積跬步無以至千里，不積小流無以成江海-CSDN博客
+https://blog.csdn.net/sd_tz_wzg/article/details/42172419
+
+formdata append file - Google 搜尋
+https://www.google.com/search?q=formdata+append+file&oq=formdata+&aqs=chrome.2.69i57j0l4j69i61l3.2760j0j1&sourceid=chrome&ie=UTF-8
+
+結合 FormData 上傳檔案
+https://openhome.cc/Gossip/ECMAScript/FormData.html
+
+FormData.append() - Web API 接口参考 | MDN
+https://developer.mozilla.org/zh-CN/docs/Web/API/FormData/append
+
+html上傳檔案不刷新 - Google 搜尋
+https://www.google.com/search?q=html%E4%B8%8A%E5%82%B3%E6%AA%94%E6%A1%88%E4%B8%8D%E5%88%B7%E6%96%B0&sxsrf=ALeKk03Usmv2c0mRdd9OWUb0_hLGzCDSiQ%3A1623661614165&ei=LhzHYO3ICY2Ur7wP8PWZuAk&oq=html%E4%B8%8A%E5%82%B3%E6%AA%94%E6%A1%88%E4%B8%8D%E5%88%B7%E6%96%B0&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEM0CMgUIABDNAjoHCCMQsAMQJzoECCMQJ1CmB1iuHGCHIGgBcAB4AIABQogB0wKSAQE2mAEAoAEBqgEHZ3dzLXdpesgBAcABAQ&sclient=gws-wiz&ved=0ahUKEwjtl_3t4pbxAhUNyosBHfB6BpcQ4dUDCA8&uact=5
+
+網頁怎麼實現表單提交後不刷新頁面 - 每日頭條
+https://kknews.cc/zh-tw/code/ama3x.html
+
+三种上传文件不刷新页面的方法讨论 iframe/FormData/FileReader-阿里云开发者社区
+https://developer.aliyun.com/article/610029
+
+form表單提交不重新整理 - IT閱讀
+https://www.itread01.com/content/1547721215.html
+
+給出一個上傳文件時不用刷新頁面的方案，要求寫出關鍵部分的js_字節跳動筆試題_牛客網
+https://www.nowcoder.com/questionTerminal/a6af4fdfacc347a69e536557a27e4d5b
+
+如何在不刷新頁面的情況下上傳圖片 - 優文庫
+http://hk.uwenku.com/question/p-qsztexfo-qm.html
+
+表單上傳文件提交不用刷新頁面的坑_幸福有多遠-CSDN博客
+https://blog.csdn.net/dongsdh/article/details/82386852
+
+怎麼實現表單提交後不重新刷新當前頁面_xhy1818xx的博客-CSDN博客_提交事件不再重載頁面
+https://blog.csdn.net/xhy1818xx/article/details/78343897?locationNum=2&fps=1
+
+ValueError: The view StockSearch.views.stock didn't return an HttpResponse object. It returned None instead. - Google 搜尋
+https://www.google.com/search?q=ValueError%3A+The+view+StockSearch.views.stock+didn%27t+return+an+HttpResponse+object.+It+returned+None+instead.&oq=ValueError%3A+The+view+StockSearch.views.stock+didn%27t+return+an+HttpResponse+object.+It+returned+None+instead.&aqs=chrome..69i57j69i58.566j0j1&sourceid=chrome&ie=UTF-8
+
+python - ValueError the view didn't return an HttpResponse object. It returned None instead - Stack Overflow
+https://stackoverflow.com/questions/63402137/valueerror-the-view-didnt-return-an-httpresponse-object-it-returned-none-inste
+
+Django報錯ValueError: The view *** didn't return an HttpResponse object. It returned None instead._清晨的光明-CSDN博客
+https://blog.csdn.net/kdongyi/article/details/89283839
+
+ajax 檔案上傳不刷新 - Google 搜尋
+https://www.google.com/search?q=ajax+%E6%AA%94%E6%A1%88%E4%B8%8A%E5%82%B3%E4%B8%8D%E5%88%B7%E6%96%B0&sxsrf=ALeKk01bXzMaB4k9DvjdlfHIDXH6S2nJQg%3A1623663513658&ei=mSPHYIbXJ-OEr7wP-p6joAE&oq=ajax+%E6%AA%94%E6%A1%88%E4%B8%8A%E5%82%B3%E4%B8%8D%E5%88%B7%E6%96%B0&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEM0COgUIABCwAzoJCAAQsAMQCBAeOgUIIRCgAToECCMQJzoGCAAQCBAeUN4vWK9bYOJdaANwAHgBgAGwAogB7AySAQgxMi40LjAuMZgBAKABAaoBB2d3cy13aXrIAQLAAQE&sclient=gws-wiz&ved=0ahUKEwjGh9336ZbxAhVjwosBHXrPCBQQ4dUDCA8&uact=5
+
+7.3 應用：jquery ajax 上傳檔案並顯示進度條 - HTML5
+https://docs.webmix.cc/html5/7.-file-api/7.3-dang-an-shang-chuan-jin-du-tiao
+
+Jquery+AJAX上傳文件，無刷新上傳並重命名文件- SegmentFault 思否
+https://segmentfault.com/a/1190000020088339
+
+java無刷新上傳文件，使用FormData進行Ajax請求 - 每日頭條
+https://kknews.cc/zh-tw/code/k8vbpnq.html
+
+python requests file - Google 搜尋
+https://www.google.com/search?q=python+requests+file&sxsrf=ALeKk03v7ESuW5ZXHYQ6QOvVoT6fFPW2-Q%3A1623664269936&ei=jSbHYLrZOM-4mAWDqb7ACg&oq=python+requests+file&gs_lcp=Cgdnd3Mtd2l6EAMyAggAMgUIABDLATIFCAAQywEyBQgAEMsBMgUIABDLATIFCAAQywEyBQgAEMsBMgUIABDLATIFCAAQywEyBQgAEMsBOgcIABBHELADUNMQWOEkYIQmaAJwAngAgAE_iAHbApIBATaYAQCgAQGqAQdnd3Mtd2l6yAEFwAEB&sclient=gws-wiz&ved=0ahUKEwj606zg7JbxAhVPHKYKHYOUD6gQ4dUDCA8&uact=5
+
+python requests file upload - Stack Overflow
+https://stackoverflow.com/questions/22567306/python-requests-file-upload
+
+html 檔案上傳 指定類型 - Google 搜尋
+https://www.google.com/search?q=html+%E6%AA%94%E6%A1%88%E4%B8%8A%E5%82%B3+%E6%8C%87%E5%AE%9A%E9%A1%9E%E5%9E%8B&oq=html+%E6%AA%94%E6%A1%88%E4%B8%8A%E5%82%B3+%E6%8C%87%E5%AE%9A%E9%A1%9E%E5%9E%8B&aqs=chrome..69i57j0i333.7587j0j1&sourceid=chrome&ie=UTF-8
+
+網頁 input 使用 accept 限制上傳檔案類型 - G. T. Wang
+https://blog.gtwang.org/web-development/html-input-accept-attribute-tutorial/
+
+xhr ajax - Google 搜尋
+https://www.google.com/search?q=xhr+ajax&oq=xhr+a&aqs=chrome.1.69i57j0l9.4807j0j1&sourceid=chrome&ie=UTF-8
+
+Day21 AJAX(1): 科普 & XHR - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天
+https://ithelp.ithome.com.tw/articles/10203820
+
+深入理解ajax系列第一篇之XHR物件 | 程式前沿
+https://codertw.com/%E5%89%8D%E7%AB%AF%E9%96%8B%E7%99%BC/385794/
+
+cpe 二星題 - Google 搜尋
+https://www.google.com/search?q=cpe+%E4%BA%8C%E6%98%9F%E9%A1%8C&sxsrf=ALeKk02YchgQEh2dE2imDbwNB1fyzG5sJg%3A1623671642777&ei=WkPHYP2BL7-Er7wP76iBgAc&oq=cpe+%E4%BA%8C%E6%98%9F%E9%A1%8C&gs_lcp=Cgdnd3Mtd2l6EAMyBQghEKABMgUIIRCgATIFCCEQoAE6BwgjELADECc6BwgAEEcQsAM6BAgjECc6AggAOgUIABCxAzoICAAQsQMQgwE6BwgAELEDEEM6BAgAEEM6CggjEOoCECcQiwM6BwgjECcQiwM6BwgjECcQnQI6BQgAEMsBOgQIABAeOgUIABDNAlCCMFjyrwFgvLYBaAhwAngAgAG-AYgB_wuSAQQyMC4zmAEAoAEBqgEHZ3dzLXdperABCsgBArgBAsABAQ&sclient=gws-wiz&ved=0ahUKEwj9lv-biJfxAhU_wosBHW9UAHAQ4dUDCA8&uact=5
+
+Online Judge - Home
+https://onlinejudge.org/
+
+UVa Online Judge如何使用 @ cychss6305的部落格 :: 痞客邦 ::
+https://cychss6305.pixnet.net/blog/post/175184723-uva-online-judge%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8
+
+CPE題目及解答總整理(含歷屆考題) @ K_程式人 :: 痞客邦 ::
+https://jennaweng0621.pixnet.net/blog/post/403629785-cpe%E9%A1%8C%E7%9B%AE%E7%9B%AE%E9%8C%84%E5%8F%8A%E8%A7%A3%E7%AD%94
+
+CPE_Previous_Questions/10004.cpp at master · LuckyPigeon/CPE_Previous_Questions
+https://github.com/LuckyPigeon/CPE_Previous_Questions/blob/master/%E4%BA%8C%E6%98%9F%E9%A1%8C/10004/10004.cpp
+
+CPE 二顆星選集 – Yui Huang 演算法學習筆記
+https://yuihuang.com/cpe-level-2/
+
+ec.presence_of_element_located((by.id - Google 搜尋
+https://www.google.com/search?q=ec.presence_of_element_located((by.id&oq=EC.presence_of_element_located&aqs=chrome.2.69i57j0l9.2759j0j1&sourceid=chrome&ie=UTF-8
+
+python 中的selenium模組使用方法 - IT閱讀
+https://www.itread01.com/content/1550047537.html
+
+id為page的網頁元素為分頁按鈕的標籤id - Google 搜尋
+https://www.google.com/search?q=id%E7%82%BApage%E7%9A%84%E7%B6%B2%E9%A0%81%E5%85%83%E7%B4%A0%E7%82%BA%E5%88%86%E9%A0%81%E6%8C%89%E9%88%95%E7%9A%84%E6%A8%99%E7%B1%A4id&oq=id%E7%82%BApage%E7%9A%84%E7%B6%B2%E9%A0%81%E5%85%83%E7%B4%A0%E7%82%BA%E5%88%86%E9%A0%81%E6%8C%89%E9%88%95%E7%9A%84%E6%A8%99%E7%B1%A4id&aqs=chrome..69i57.678j0j1&sourceid=chrome&ie=UTF-8
+
+[Python爬蟲教學]Python網頁爬蟲動態翻頁的實作技巧
+https://www.learncodewithmike.com/2020/06/how-to-scrape-different-pages-using-python-scraper.html
+
+分頁 html - Google 搜尋
+https://www.google.com/search?q=%E5%88%86%E9%A0%81+html&sxsrf=ALeKk00TTrclhaIpIfecJ1Uahqx0tp_jMg%3A1623613567218&ei=f2DGYM_jDIaKr7wPpPG9uAs&oq=%E5%88%86%E9%A0%81%E6%8C%89%E9%88%95+google&gs_lcp=Cgdnd3Mtd2l6EAEYADIICAAQsAMQzQIyCAgAELADEM0CMggIABCwAxDNAjIICAAQsAMQzQJQAFgAYKIyaAFwAHgAgAE3iAE3kgEBMZgBAKoBB2d3cy13aXrIAQTAAQE&sclient=gws-wiz
+
+Bootstrap 分頁| 菜鳥教程
+https://www.runoob.com/bootstrap/bootstrap-pagination.html
+
+python request.FILES.get - Google 搜尋
+https://www.google.com/search?q=python+request.FILES.get&oq=python+request.FILES.get&aqs=chrome..69i57j0j0i8i30l3.1894j0j1&sourceid=chrome&ie=UTF-8
+
+慢慢帶你了解Flask - Day8 網路相簿(4)：上傳檔案 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天
+https://ithelp.ithome.com.tw/articles/10213803
+
+django - How can I get the file name from request.FILES? - Stack Overflow
+https://stackoverflow.com/questions/3111779/how-can-i-get-the-file-name-from-request-files
+
+new FormData(document.getElementById("form")); - Google 搜尋
+https://www.google.com/search?q=new+FormData(document.getElementById(%22form%22))%3B&oq=new+FormData(document.getElementById(%22form%22))%3B&aqs=chrome..69i57j33i160l5.664j0j1&sourceid=chrome&ie=UTF-8
+
+javascript - How to use FormData for AJAX file upload? - Stack Overflow
+https://stackoverflow.com/questions/21044798/how-to-use-formdata-for-ajax-file-upload
+
+new FormData(document.getElementById("form")); - Google 搜尋
+https://www.google.com/search?q=new+FormData(document.getElementById(%22form%22))%3B&oq=new+FormData(document.getElementById(%22form%22))%3B&aqs=chrome.0.69i59&sourceid=chrome&ie=UTF-8
+
+formdata.append('file', $('input[type=file]')[0].files[0]); python - Google 搜尋
+https://www.google.com/search?q=formdata.append(%27file%27%2C+%24(%27input%5Btype%3Dfile%5D%27)%5B0%5D.files%5B0%5D)%3B+python&oq=formdata.append(%27file%27%2C+%24(%27input%5Btype%3Dfile%5D%27)%5B0%5D.files%5B0%5D)%3B+python&aqs=chrome..69i57.4184j0j1&sourceid=chrome&ie=UTF-8
+
+javascript - Uploading multiple files using formData() - Stack Overflow
+https://stackoverflow.com/questions/12989442/uploading-multiple-files-using-formdata
+
+使用 JQuery 透過 FormData 上傳檔案 (headers 帶 boundary) - Askie's Coding Life
+https://askie.today/using-formdata-and-setting-multipart-to-upload-file-by-ajax/
+
+python request formdata file - Google 搜尋
+https://www.google.com/search?q=python+request+formdata+file&sxsrf=ALeKk00SuemblUl4CpJ8vv4xXIP5YgjEkw%3A1623664625150&ei=8SfHYMPcCMOEr7wPxbmEkAo&oq=python+request+formdata+file&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEM0CMgUIABDNAjIFCAAQzQI6BQgAELADOggIABCwAxDLAToCCAA6BQgAEMsBOgQIABAeOgcIABAKEMsBOgYIABAIEB46CAgAEAgQChAeOgUIIRCgAToHCCEQChCgAVDtFFjsQGCaQmgAcAB4AIABVogBygWSAQIxMpgBAKABAaoBB2d3cy13aXrIAQrAAQE&sclient=gws-wiz&ved=0ahUKEwiDmd2J7pbxAhVDwosBHcUcAaIQ4dUDCA8&uact=5
+
+How to send a "multipart/form-data" with requests in python? - Stack Overflow
+https://stackoverflow.com/questions/12385179/how-to-send-a-multipart-form-data-with-requests-in-python
+
+html 拖拉g;4tj06 - Google 搜尋
+https://www.google.com/search?q=html+%E6%8B%96%E6%8B%89g%3B4tj06&oq=html+%E6%8B%96%E6%8B%89g%3B4tj06&aqs=chrome..69i57j0i333l2.9050j0j1&sourceid=chrome&ie=UTF-8
+
+Bootstrap 上傳檔案 - Google 搜尋
+https://www.google.com/search?sxsrf=ALeKk00be610xtDLglgqfJN0tVIANvQ3vA:1623673580535&q=Bootstrap+%E4%B8%8A%E5%82%B3%E6%AA%94%E6%A1%88&sa=X&ved=2ahUKEwiWwP63j5fxAhWuGqYKHaG9BV8Q1QIwEHoECBQQAQ
+
+BootStrap檔案上傳樣式超好看【持續更新】 | 程式前沿
+https://codertw.com/%E5%89%8D%E7%AB%AF%E9%96%8B%E7%99%BC/267082/
+
+HTML5 js實現拖拉上傳檔案功能 - IT閱讀
+https://www.itread01.com/article/1484106454.html
+
+JavaScript：拖曳圖片上傳功能 « 程式初學者
+http://code-beginner.logdown.com/posts/313821
+
+drag2upload/drag2upload.jquery.js at master · palehorse/drag2upload
+https://github.com/palehorse/drag2upload/blob/master/drag2upload.jquery.js
+
+手風琴·Bootstrap v5.0
+https://getbootstrap.com/docs/5.0/components/accordion/
+
+[HTML5教學] HTML5 Drag&Drop拖拉上傳檔案(可直接套用) | 梅問題．教學網
+https://www.minwt.com/webdesign-dev/html/3655.html
+
+JS HTML5拖拽上傳圖片預覽 - HackMD
+https://hackmd.io/@c36ICNyhQE6-iTXKxoIocg/HkSdHcJ9U
+
+html 拖拉上傳 - Google 搜尋
+https://www.google.com/search?q=html+%E6%8B%96%E6%8B%89%E4%B8%8A%E5%82%B3&sxsrf=ALeKk02_toAYUyqPmLVPIDak9OsKB8VWMw%3A1623673596828&ei=_ErHYNf1McrEmAXJ0Lr4Dg&oq=html+%E6%8B%96%E6%8B%89%E4%B8%8A%E5%82%B3&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEM0CMgUIABDNAjIFCAAQzQIyBQgAEM0COggIABCwAxDNAjoECCMQJ1CVClixGmCFHWgBcAB4AIABVIgBogOSAQE3mAEAoAEBqgEHZ3dzLXdpesgBAsABAQ&sclient=gws-wiz&ved=0ahUKEwjX4-C_j5fxAhVKIqYKHUmoDu8Q4dUDCA8&uact=5
+
+HTML5練習-從桌面拖拉檔案到網頁-黑暗執行緒
+https://blog.darkthread.net/blog/html5-drag-drop-file/
+
+bootstrap 上傳進度條 - Google 搜尋
+https://www.google.com/search?q=bootstrap+%E4%B8%8A%E5%82%B3%E9%80%B2%E5%BA%A6%E6%A2%9D&sxsrf=ALeKk01DmN5LeOnlu3pbVmxaYVFSJ_6c3w:1623675694085&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjw8Oanl5fxAhWbL6YKHZRYAuQQ_AUoAXoECAEQAw&biw=1920&bih=937
+
+bootstrap 上傳進度條 - Google 搜尋
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg-blog.csdnimg.cn%2F20190111112357487.PNG%3Fx-oss-process%3Dimage%2Fwatermark%2Ctype_ZmFuZ3poZW5naGVpdGk%2Cshadow_10%2Ctext_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2ZvcnlvdTIwMTM%3D%2Csize_16%2Ccolor_FFFFFF%2Ct_70&imgrefurl=https%3A%2F%2Fblog.csdn.net%2Fforyou2013%2Farticle%2Fdetails%2F86292851&tbnid=CWwXWBkJWB9eIM&vet=12ahUKEwiIwtiwl5fxAhXRB94KHereBQoQMygAegUIARCkAQ..i&docid=NbWx2OopdG4bKM&w=798&h=280&q=bootstrap%20%E4%B8%8A%E5%82%B3%E9%80%B2%E5%BA%A6%E6%A2%9D&ved=2ahUKEwiIwtiwl5fxAhXRB94KHereBQoQMygAegUIARCkAQ
+
+Django-基于bootstrap文件上传，带上传进度条，完整前后台_foryou2013的博客-CSDN博客
+https://blog.csdn.net/foryou2013/article/details/86292851
+
+django文件——django + jquery-file-upload上传篇（二）-- 插件实现文件上传+进度条显示 +拖入文件上传..._weixin_34235457的博客-CSDN博客
+https://blog.csdn.net/weixin_34235457/article/details/94338368?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_title-0&spm=1001.2101.3001.4242
+
+BootStrap Progressbar 實現大檔案上傳的進度條的例項程式碼 | 程式前沿
+https://codertw.com/%E5%89%8D%E7%AB%AF%E9%96%8B%E7%99%BC/263754/
+
+BootStrap實現檔案上傳並帶有進度條效果 | 程式前沿
+https://codertw.com/%E5%89%8D%E7%AB%AF%E9%96%8B%E7%99%BC/230687/
+
+bootstrap 上傳進度條 - Google 搜尋
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.w3h5.com%2Fzb_users%2Fupload%2F2019%2F05%2F201905101557480041200835.png&imgrefurl=https%3A%2F%2Fwww.w3h5.com%2Fpost%2F298.html&tbnid=q3ZoB8i--afzaM&vet=12ahUKEwiIwtiwl5fxAhXRB94KHereBQoQMygMegUIARC9AQ..i&docid=GhWEjHlWr85JAM&w=518&h=345&q=bootstrap%20%E4%B8%8A%E5%82%B3%E9%80%B2%E5%BA%A6%E6%A2%9D&ved=2ahUKEwiIwtiwl5fxAhXRB94KHereBQoQMygMegUIARC9AQ
+
+Forms · Bootstrap
+https://getbootstrap.com/docs/4.3/components/forms/
+
+bootstrap margin 0 auto - Google 搜尋
+https://www.google.com/search?q=bootstrap+margin+0+auto&sxsrf=ALeKk039YMVxpG4PdtlnX5WV9QRtW2i-8Q%3A1623679166031&ei=vmDHYJ6WAaTomAXy35qgDQ&oq=bootstrap+margin+&gs_lcp=Cgdnd3Mtd2l6EAEYADICCAAyAggAMgIIADICCAAyBQgAEMsBMgUIABDLATIFCAAQywEyBQgAEMsBMgUIABDLATIFCAAQywE6BQgAELADOgkIABCwAxAHEB5QzgRYzgRg9ApoAXAAeACAAUyIAYgBkgEBMpgBAKABAaoBB2d3cy13aXrIAQrAAQE&sclient=gws-wiz
+
+間距·Bootstrap
+https://getbootstrap.com/docs/4.0/utilities/spacing/
+
+Buttons · Bootstrap
+https://getbootstrap.com/docs/4.0/components/buttons/
+
+bootstrap input width - Google 搜尋
+https://www.google.com/search?q=bootstrap+input+width&sxsrf=ALeKk00838KTpJmFwzuivmU1T8SluJjPEQ%3A1623679606797&ei=dmLHYJ-CMOKFr7wPr4208AU&oq=bootstrap+input+w&gs_lcp=Cgdnd3Mtd2l6EAEYADICCAAyAggAMgIIADIFCAAQywEyBQgAEMsBMgUIABDLATIFCAAQywEyBQgAEMsBMgUIABDLATIFCAAQywE6BwgjELADECc6BQgAELADOggIABCwAxDLAToHCAAQsAMQHjoJCAAQsAMQBxAeOgUIIRCgAToECCMQJ1DIrANYurIDYNG9A2gBcAB4AIABYogB1gKSAQE1mAEAoAEBqgEHZ3dzLXdpesgBCsABAQ&sclient=gws-wiz
+
+Bootstrap Input Sizing
+https://www.w3schools.com/bootstrap/bootstrap_forms_sizing.asp
+
+css - Bootstrap 3 上的輸入寬度_css_幫酷編程問答
+https://stackoverflow.com/questions/18539711/input-widths-on-bootstrap-3
+
+Bootstrap input width - bootstrap helpers - code helper
+https://mdbootstrap.com/snippets/jquery/ascensus/143796
+
+表單·Bootstrap
+https://getbootstrap.com/docs/4.0/components/forms/
+
+input width - Google 搜尋
+https://www.google.com/search?q=input+width&oq=input+width&aqs=chrome..69i57j69i60j69i61l2&sourceid=chrome&ie=UTF-8
+
+菜鳥工程師 肉豬: CSS <input>寬度不超過<div>
+https://matthung0807.blogspot.com/2017/11/css.html
+
+bootstrap label font size - Google 搜尋
+https://www.google.com/search?q=bootstrap+label+font+size&sxsrf=ALeKk02xmbm7V9DVaOW5SRuy4SNSkHEx8Q%3A1623680115349&ei=c2THYJ3MFKmLr7wPz_-cCA&oq=bootstrap+label+font+&gs_lcp=Cgdnd3Mtd2l6EAEYADICCAAyBQgAEMsBMgUIABDLATIFCAAQywEyBQgAEMsBMgQIABAeMgYIABAIEB4yBggAEAgQHjIGCAAQCBAeMgYIABAIEB46BQgAELADOggIABCwAxDLAToJCAAQsAMQCBAeUPAYWPAYYPUdaAJwAHgAgAFGiAF9kgEBMpgBAKABAaoBB2d3cy13aXrIAQrAAQE&sclient=gws-wiz
+
+Bootstrap 4 Text/Typography
+https://www.w3schools.com/bootstrap4/bootstrap_typography.asp
+
+html h tag font color - Google 搜尋
+https://www.google.com/search?q=html+h+tag+font+color&oq=html+h+tag+font+color&aqs=chrome..69i57.7908j0j1&sourceid=chrome&ie=UTF-8
+
+HTML Styles
+https://www.w3schools.com/html/html_styles.asp
+
+Tryit Editor v3.6
+https://www.w3schools.com/html/tryit.asp?filename=tryhtml_styles_intro
+
+bootstrap progress bar - Google 搜尋
+https://www.google.com/search?q=bootstrap+progress+bar&oq=bootstrap+pro&aqs=chrome.1.0l2j69i57j0l2j69i60j69i61j69i60.8741j0j1&sourceid=chrome&ie=UTF-8
+
+Progress · Bootstrap
+https://getbootstrap.com/docs/4.0/components/progress/
+
+$().attr - Google 搜尋
+https://www.google.com/search?q=%24().attr&oq=%24().attr&aqs=chrome..69i57j0i7i19i30j0i19i30l8.5464j0j1&sourceid=chrome&ie=UTF-8
+
+jQuery 屬性操作- attr() 方法
+https://www.w3school.com.cn/jquery/attributes_attr.asp
+
+bootstrap text align right css - Google 搜尋
+https://www.google.com/search?q=bootstrap+text+align+right+css&sxsrf=ALeKk021yoxKtt_89iomgj-xSyP80YYiWQ%3A1623683080948&ei=CHDHYLC6OZHr0ASHjYGIAg&oq=bootstrap+text+align+&gs_lcp=Cgdnd3Mtd2l6EAEYBjICCAAyAggAMgIIADIFCAAQywEyBQgAEMsBMgUIABDLATIFCAAQywEyBQgAEMsBMgUIABDLATIFCAAQywE6BQgAELADOgkIABCwAxAHEB5QyWlYyWlgg3poAXAAeACAAT2IAXCSAQEymAEAoAEBqgEHZ3dzLXdpesgBCsABAQ&sclient=gws-wiz
+
+文字·引導
+https://getbootstrap.com/docs/4.0/utilities/text/
+
+js 清除class - Google 搜尋
+https://www.google.com/search?q=js+%E6%B8%85%E9%99%A4class&oq=js+%E6%B8%85%E9%99%A4cla&aqs=chrome.1.69i57j0i30.11800j0j1&sourceid=chrome&ie=UTF-8
+
+js增加class或者刪除class_遇見更好的自己-CSDN博客_js 添加class
+https://blog.csdn.net/liuwengai/article/details/78795969
+
+JavaScript 刪除class屬性 | IT人
+https://iter01.com/310777.html
+
+&nbsp; - Google 搜尋
+https://www.google.com/search?q=%26nbsp%3B&oq=%26nbsp%3B&aqs=chrome..69i57j0l9.590j0j1&sourceid=chrome&ie=UTF-8
+
+HTML / 網頁當中的六種空白字元 &nbsp; &ensp; &emsp; &thinsp; &zwnj; &zwj; 的差別 – Charles Note
+https://note.charlestw.com/html-space/
+
+html input 閃爍 - Google 搜尋
+https://www.google.com/search?q=html+input+%E9%96%83%E7%88%8D&oq=html+input+%E9%96%83%E7%88%8D&aqs=chrome..69i57j0i333.10376j0j1&sourceid=chrome&ie=UTF-8
+
+html input border - Google 搜尋
+https://www.google.com/search?q=html+input+border&sxsrf=ALeKk00c7-o2zpPm9JGO4TxQBQco4mULZw%3A1623686960499&ei=MH_HYLfwHZ3fmAW5y4TICQ&oq=html+input+bor&gs_lcp=Cgdnd3Mtd2l6EAMYADICCAAyAggAMgUIABDLATIFCAAQywEyBQgAEMsBMgUIABDLATIFCAAQywEyBQgAEMsBMgUIABDLATIFCAAQywE6BAgjECc6BAgAEEM6BQgAEM0CUI9rWPStAWCMuwFoAnAAeACAAVGIAY8EkgEBOZgBAKABAaoBB2d3cy13aXrAAQE&sclient=gws-wiz
+
+HTML input type text 的邊框顏色與樣式設計 - Wibibi
+https://www.wibibi.com/info.php?tid=427
+
+ondragover - Google 搜尋
+https://www.google.com/search?q=ondragover&oq=ondragover+&aqs=chrome..69i57j0l2j0i30l7.3768j0j1&sourceid=chrome&ie=UTF-8
+
+ondragover 事件 | 菜鸟教程
+https://www.runoob.com/jsref/event-ondragover.html
+
+使用深度融合的捲積神經網絡進行手指靜脈識別 - ScienceDirect
+https://www.sciencedirect.com/science/article/pii/S1319157820303372#bb0015
+
+用於基於手指的生物識別技術的帶限相位相關和寬度質心輪廓距離的融合 - ScienceDirect
+https://www.sciencedirect.com/science/article/pii/S0957417413009536?via%3Dihub#b0150
+
+Finger Vein USM (FV-USM) Database – Dr. Bakhtiar Affendi Rosdi
+http://drfendi.com/fv_usm_database/#
+
+英雄神秘客EP7 - 一邊泡腳一邊吃飯？ - YouTube
+https://www.youtube.com/watch?v=ZGv7SbgpKok
+
+【 Tools 】設定 Visual Studio Code 為 UTF-8 編碼
+https://learningsky.io/set-vs-code-enconding-tool-bar-activity-bar/
+
+@override java 意思 - Google 搜尋
+https://www.google.com/search?q=%40override+java+%E6%84%8F%E6%80%9D&oq=%40Override&aqs=chrome.2.69i57j0l6j69i65.1355j0j1&sourceid=chrome&ie=UTF-8
+
+Java入門學習-理解super，this，@override的用法 | IT人
+https://iter01.com/163391.html
+
+香港程式網-Android程式設計教學-LibGDX遊戲程式
+http://www.hkprogram.com/index1/section15.html
+
+java 多人threadpool - Google 搜尋
+https://www.google.com/search?q=java+%E5%A4%9A%E4%BA%BAthreadpool&oq=java+%E5%A4%9A%E4%BA%BAthreadpool&aqs=chrome..69i57.9399j0j1&sourceid=chrome&ie=UTF-8
+
+Thread Pool · Java多執行緒的基本知識
+https://popcornylu.gitbooks.io/java_multithread/content/threadpool/threadpool.html
+
+Java：超簡單 Thread Pool 功能實作 @ 符碼記憶
+https://www.ewdna.com/2011/11/java-thread-pool.html
+
+java threadpool - Google 搜尋
+https://www.google.com/search?q=java+threadpool&oq=java+threadpool&aqs=chrome..69i57j0l6j69i60.6237j0j1&sourceid=chrome&ie=UTF-8
+
+Java Executor、TheadPoolExecutor 設定參數基本介紹 - 技術雜記 Technology Notes - Jack Yu | 傑克
+https://yu-jack.github.io/2019/02/19/java-executor/
+
+菜鳥工程師 肉豬: Java Thread Pool 簡介
+https://matthung0807.blogspot.com/2019/06/java-thread-pool.html
+
+newCachedThreadPool - Google 搜尋
+https://www.google.com/search?q=newCachedThreadPool&oq=newCachedThreadPool&aqs=chrome..69i57j0l9.657j0j1&sourceid=chrome&ie=UTF-8
+
+Java四種執行緒池newCachedThreadPool,newFixedThreadPool,newScheduledThreadPool,newSingle - IT閱讀
+https://www.itread01.com/content/1541208363.html
+
+進來 英文 - Google 搜尋
+https://www.google.com/search?q=%E9%80%B2%E4%BE%86+%E8%8B%B1%E6%96%87&oq=%E9%80%B2%E4%BE%86+%E8%8B%B1%E6%96%87&aqs=chrome..69i57.12779j0j1&sourceid=chrome&ie=UTF-8
+
+boagame - Google 搜尋
+https://www.google.com/search?q=boagame&oq=boagame&aqs=chrome..69i57j0i13j0i10i13j0i13i30l5j0i10i30l2.4765j0j1&sourceid=chrome&ie=UTF-8

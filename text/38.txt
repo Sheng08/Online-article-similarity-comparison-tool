@@ -1,0 +1,2618 @@
+摘要
+		作業系統
+			Windows 10 專業版 64-bit
+		CPU
+			Intel Core i5 4590 @ 3.30GHz	37 °C
+			Haswell 22nm 製程
+		RAM
+			24.0GB 雙通道-通道 DDR3 @ 798MHz (11-11-11-28)
+		主機板
+			Gigabyte Technology Co. Ltd. H97M-D3H (SOCKET 0)	36 °C
+		圖形裝置
+			Generic Non-PnP Monitor (1920x1080@32Hz)
+			Intel HD Graphics 4600 (Gigabyte)
+		儲存裝置
+			931GB Western Digital WDC WD1003FZEX-00MK2A0 (SATA )	39 °C
+		光碟機
+			未偵測到光碟機
+		音訊
+			High Definition Audio 裝置
+作業系統
+	Windows 10 專業版 64-bit
+	電腦類型: 桌上型電腦
+	安裝日期: 2020/2/29 下午 06:19:35
+	序號：R3HB7-X6HMH-F48J3-8XJVP-9QBP9
+		Windows 資訊安全中心
+			使用者帳戶控制 (UAC)	已啟用
+			通知級別	2 - 預設
+			防火牆	已啟用
+		Windows Update
+			自動更新	尚未設定
+		Windows Defender
+			WIndows Defender	已啟用
+		防毒
+			防毒	已啟用
+			顯示名稱	Windows Defender
+			病毒簽名資料庫	最新
+		已安裝 .NET Frameworks
+			v4.8 Full
+			v4.8 Client
+		Internet Explorer
+			版本	11.719.18362.0
+		PowerShell
+			版本	5.1.18362.1
+		環境變數
+			USERPROFILE	C:\Users\bdlab
+			SystemRoot	C:\Windows
+				使用者變數
+					OneDrive	C:\Users\bdlab\OneDrive
+					Path	C:\Users\bdlab\AppData\Local\Programs\Python\Python38\Scripts\
+					C:\Users\bdlab\AppData\Local\Programs\Python\Python38\
+					C:\Users\bdlab\AppData\Local\Microsoft\WindowsApps
+					C:\Users\bdlab\AppData\Roaming\npm
+					C:\Users\bdlab\AppData\Local\Programs\Microsoft VS Code\bin
+					TEMP	C:\Users\bdlab\AppData\Local\Temp
+					TMP	C:\Users\bdlab\AppData\Local\Temp
+				電腦變數
+					ComSpec	C:\Windows\system32\cmd.exe
+					DriverData	C:\Windows\System32\Drivers\DriverData
+					NUMBER_OF_PROCESSORS	4
+					OS	Windows_NT
+					Path	C:\Windows\system32
+					C:\Windows
+					C:\Windows\System32\Wbem
+					C:\Windows\System32\WindowsPowerShell\v1.0\
+					C:\Windows\System32\OpenSSH\
+					C:\Program Files\nodejs\
+					C:\Program Files\MongoDB\Server\3.2\bin
+					PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+					PROCESSOR_ARCHITECTURE	AMD64
+					PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 60 Stepping 3, GenuineIntel
+					PROCESSOR_LEVEL	6
+					PROCESSOR_REVISION	3c03
+					PSModulePath	%ProgramFiles%\WindowsPowerShell\Modules
+					C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+					TEMP	C:\Windows\TEMP
+					TMP	C:\Windows\TEMP
+					USERNAME	SYSTEM
+					windir	C:\Windows
+		電源設定檔
+			使用中電源配置	平衡
+			休眠	已啟用
+			關閉顯示器:(使用交流電源)	永不
+			關閉硬碟:(使用交流電源)	20 分
+			暫停:(使用交流電源)	永不
+			螢幕保護程式	已停用
+		運作時間
+				目前的工作階段
+					目前時間	2020/11/2 下午 05:17:12
+					目前的運作時間	3,908,385 秒 (45 d, 05 h, 39 m, 45 s)
+					上次開機時間	2020/9/18 上午 11:37:27
+		服務
+			執行中	Apache2.4
+			執行中	Application Information
+			執行中	AVCTP 服務
+			執行中	Background Intelligent Transfer Service
+			執行中	Background Tasks Infrastructure Service
+			執行中	Base Filtering Engine
+			執行中	Certificate Propagation
+			執行中	Chrome 遠端桌面服務
+			執行中	Client License Service (ClipSVC)
+			執行中	CNG Key Isolation
+			執行中	COM+ Event System
+			執行中	Connected User Experiences and Telemetry
+			執行中	Contact Data_41969
+			執行中	CoreMessaging
+			執行中	Credential Manager
+			執行中	Cryptographic Services
+			執行中	Data Sharing Service
+			執行中	DCOM Server Process Launcher
+			執行中	DHCP Client
+			執行中	Diagnostic Policy Service
+			執行中	Diagnostic Service Host
+			執行中	Distributed Link Tracking Client
+			執行中	DNS Client
+			執行中	Encrypting File System (EFS)
+			執行中	Group Policy Client
+			執行中	Intel HD Graphics Control Panel Service
+			執行中	IP Helper
+			執行中	Local Session Manager
+			執行中	Microsoft Passport
+			執行中	Microsoft Passport Container
+			執行中	Microsoft Store 安裝服務
+			執行中	MongoDB
+			執行中	Network Connection Broker
+			執行中	Network Connections
+			執行中	Network List Service
+			執行中	Network Location Awareness
+			執行中	Network Store Interface Service
+			執行中	Peer Name Resolution Protocol
+			執行中	Peer Networking Identity Manager
+			執行中	Plug and Play
+			執行中	Power
+			執行中	Print Spooler
+			執行中	Program Compatibility Assistant Service
+			執行中	Radio Management Service
+			執行中	Remote Access Connection Manager
+			執行中	Remote Desktop Configuration
+			執行中	Remote Desktop Services
+			執行中	Remote Desktop Services UserMode Port Redirector
+			執行中	Remote Procedure Call (RPC)
+			執行中	RPC Endpoint Mapper
+			執行中	Secure Socket Tunneling Protocol Service
+			執行中	Security Accounts Manager
+			執行中	Security Center
+			執行中	Server
+			執行中	Shell Hardware Detection
+			執行中	Smart Card Device Enumeration Service
+			執行中	SSDP Discovery
+			執行中	State Repository Service
+			執行中	Storage Service
+			執行中	SysMain
+			執行中	System Event Notification Service
+			執行中	System Events Broker
+			執行中	Task Scheduler
+			執行中	TCP/IP NetBIOS Helper
+			執行中	Themes
+			執行中	Time Broker
+			執行中	Touch Keyboard and Handwriting Panel Service
+			執行中	User Data Access_41969
+			執行中	User Data Storage_41969
+			執行中	User Manager
+			執行中	User Profile Service
+			執行中	Web 帳戶管理員
+			執行中	Windows Audio
+			執行中	Windows Audio Endpoint Builder
+			執行中	Windows Biometric Service
+			執行中	Windows Connection Manager
+			執行中	Windows Defender Antivirus Network Inspection Service
+			執行中	Windows Defender Antivirus Service
+			執行中	Windows Defender Firewall
+			執行中	Windows Event Log
+			執行中	Windows Font Cache Service
+			執行中	Windows Management Instrumentation
+			執行中	Windows Push Notifications User Service_41969
+			執行中	Windows Search
+			執行中	Windows 安全性服務
+			執行中	Windows 授權管理員服務
+			執行中	Windows 推播通知系統服務
+			執行中	WinHTTP Web Proxy Auto-Discovery Service
+			執行中	WLAN AutoConfig
+			執行中	Workstation
+			執行中	付款與 NFC/SE 管理員
+			執行中	剪貼簿使用者服務_41969
+			執行中	同步主機_41969
+			執行中	已連線的裝置平台使用者服務_41969
+			執行中	已連線的裝置平台服務
+			執行中	數據使用量
+			執行中	更新 Orchestrator 服務
+			執行中	系統防護執行階段監視器代理人
+			執行中	顯示原則服務
+			已停止	ActiveX Installer (AxInstSV)
+			已停止	Agent Activation Runtime_41969
+			已停止	AllJoyn Router Service
+			已停止	App Readiness
+			已停止	Application Identity
+			已停止	Application Layer Gateway Service
+			已停止	Application Management
+			已停止	AppX Deployment Service (AppXSVC)
+			已停止	AssignedAccessManager 服務
+			已停止	BitLocker Drive Encryption Service
+			已停止	Block Level Backup Engine Service
+			已停止	BranchCache
+			已停止	CaptureService_41969
+			已停止	COM+ System Application
+			已停止	ConsentUX_41969
+			已停止	CredentialEnrollmentManagerUserSvc_41969
+			已停止	Delivery Optimization
+			已停止	Device Association Service
+			已停止	Device Install Service
+			已停止	Device Setup Manager
+			已停止	DeviceAssociationBroker_41969
+			已停止	DevicePicker_41969
+			已停止	DevicesFlow_41969
+			已停止	DevQuery Background Discovery Broker
+			已停止	Diagnostic Execution Service
+			已停止	Diagnostic System Host
+			已停止	Distributed Transaction Coordinator
+			已停止	Downloaded Maps Manager
+			已停止	Enterprise App Management Service
+			已停止	Extensible Authentication Protocol
+			已停止	Fax
+			已停止	File History Service
+			已停止	Function Discovery Provider Host
+			已停止	Function Discovery Resource Publication
+			已停止	GameDVR 及直播使用者服務_41969
+			已停止	Geolocation Service
+			已停止	Google Chrome Elevation Service
+			已停止	Google更新 服務 (gupdate)
+			已停止	Google更新 服務 (gupdatem)
+			已停止	GraphicsPerfSvc
+			已停止	Human Interface Device Service
+			已停止	HV 主機服務
+			已停止	Hyper-V Data Exchange Service
+			已停止	Hyper-V Guest Service Interface
+			已停止	Hyper-V Guest Shutdown Service
+			已停止	Hyper-V Heartbeat Service
+			已停止	Hyper-V PowerShell Direct Service
+			已停止	Hyper-V Remote Desktop Virtualization Service
+			已停止	Hyper-V Time Synchronization Service
+			已停止	Hyper-V Volume Shadow Copy Requestor
+			已停止	IKE and AuthIP IPsec Keying Modules
+			已停止	Intel Content Protection HECI Service
+			已停止	Internet Connection Sharing (ICS)
+			已停止	IP 轉譯設定服務
+			已停止	IPsec Policy Agent
+			已停止	KtmRm for Distributed Transaction Coordinator
+			已停止	Link-Layer Topology Discovery Mapper
+			已停止	MessagingService_41969
+			已停止	Microsoft 診斷集線器標準收集器服務
+			已停止	Microsoft Account Sign-in Assistant
+			已停止	Microsoft App-V Client
+			已停止	Microsoft iSCSI Initiator Service
+			已停止	Microsoft Software Shadow Copy Provider
+			已停止	Microsoft Storage Spaces SMP
+			已停止	Microsoft Windows SMS 路由器服務。
+			已停止	Net.Tcp Port Sharing Service
+			已停止	Netlogon
+			已停止	Network Connected Devices Auto-Setup
+			已停止	Network Connectivity Assistant
+			已停止	Network Setup Service
+			已停止	Offline Files
+			已停止	OpenSSH Authentication Agent
+			已停止	Optimize drives
+			已停止	Peer Networking Grouping
+			已停止	Performance Counter DLL Host
+			已停止	Performance Logs & Alerts
+			已停止	Phone Service
+			已停止	PNRP Machine Name Publication Service
+			已停止	Portable Device Enumerator Service
+			已停止	Printer Extensions and Notifications
+			已停止	PrintWorkflow_41969
+			已停止	Problem Reports and Solutions Control Panel Support
+			已停止	Quality Windows Audio Video Experience
+			已停止	Remote Access Auto Connection Manager
+			已停止	Remote Procedure Call (RPC) Locator
+			已停止	Remote Registry
+			已停止	Routing and Remote Access
+			已停止	Secondary Logon
+			已停止	Sensor Data Service
+			已停止	Sensor Monitoring Service
+			已停止	Sensor Service
+			已停止	Shared PC Account Manager
+			已停止	Smart Card
+			已停止	Smart Card Removal Policy
+			已停止	SNMP 設陷
+			已停止	Software Protection
+			已停止	Spot Verifier
+			已停止	Still Image Acquisition Events
+			已停止	Storage Tiers Management
+			已停止	Telephony
+			已停止	UPnP Device Host
+			已停止	User Experience Virtualization Service
+			已停止	Virtual Disk
+			已停止	Volume Shadow Copy
+			已停止	WalletService
+			已停止	WarpJITSvc
+			已停止	WebClient
+			已停止	Wi-Fi Direct 服務連線管理員服務
+			已停止	Windows Camera Frame Server
+			已停止	Windows Connect Now - Config Registrar
+			已停止	Windows Defender Advanced Threat Protection Service
+			已停止	Windows Encryption Provider Host Service
+			已停止	Windows Error Reporting Service
+			已停止	Windows Event Collector
+			已停止	Windows Image Acquisition (WIA)
+			已停止	Windows Installer
+			已停止	Windows Media Player Network Sharing Service
+			已停止	Windows Modules Installer
+			已停止	Windows PushToInstall 服務
+			已停止	Windows Remote Management (WS-Management)
+			已停止	Windows Time
+			已停止	Windows Update
+			已停止	Windows Update Medic Service
+			已停止	Windows 備份
+			已停止	Windows 感知服務
+			已停止	Windows 感知模擬服務
+			已停止	Windows 測試人員服務
+			已停止	Windows 管理服務
+			已停止	Windows 行動熱點服務
+			已停止	Wired AutoConfig
+			已停止	WMI Performance Adapter
+			已停止	Work Folders
+			已停止	WWAN AutoConfig
+			已停止	Xbox Accessory Management Service
+			已停止	Xbox Live 網路服務
+			已停止	Xbox Live 遊戲儲存
+			已停止	Xbox Live 驗證管理員
+			已停止	內嵌模式
+			已停止	功能存取管理員服務
+			已停止	家長監護
+			已停止	容積測量音訊撰寫服務
+			已停止	建議的疑難排解服務
+			已停止	本機設定檔助理員服務
+			已停止	空間資料服務
+			已停止	自動時區更新程式
+			已停止	自然驗證
+			已停止	藍牙使用者支援服務_41969
+			已停止	藍牙支援服務
+			已停止	藍牙音訊閘道服務
+			已停止	行動電話通訊的時間
+			已停止	裝置管理無線應用通訊協定 (WAP) 推播訊息路由服務
+			已停止	裝置管理註冊服務
+			已停止	語言體驗服務
+			已停止	零售示範服務
+			已停止	顯示增強服務
+		時區
+			時區	GMT +8:00 小時
+			語言	中文 (繁體，台灣)
+			位置	台灣
+			格式	中文 (繁體，台灣)
+			貨幣	NT$
+			日期格式	yyyy/M/d
+			時間格式	tt hh:mm:ss
+		排程器
+			2020/11/2 下午 05:49;	GoogleUpdateTaskMachineUA
+			2020/11/2 下午 08:47;	OneDrive Standalone Update Task-S-1-5-21-1061369796-588171115-3385678897-1001
+			2020/11/2 下午 08:49;	GoogleUpdateTaskMachineCore
+		系統資料夾
+			Cookies	C:\Users\bdlab\AppData\Local\Microsoft\Windows\INetCookies
+			Program Files	C:\Program Files
+			Temporary Internet Files	C:\Users\bdlab\AppData\Local\Microsoft\Windows\INetCache
+			Windows 目錄	C:\Windows
+			Windows/System	C:\Windows\system32
+			使用者的我的最愛	C:\Users\bdlab\Favorites
+			公用桌面	C:\Users\Public\Desktop
+			啟動	C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup
+			圖片	C:\Users\Public\Pictures
+			字型	C:\Windows\Fonts
+			實體桌面	C:\Users\bdlab\Desktop
+			應用程式資料	C:\ProgramData
+			文件	C:\Users\Public\Documents
+			本機應用程式資料	C:\Users\bdlab\AppData\Local
+			桌面	C:\Users\bdlab\Desktop
+			用於燒錄 CD 的路徑	C:\Users\bdlab\AppData\Local\Microsoft\Windows\Burn\Burn
+			範本	C:\ProgramData\Microsoft\Windows\Templates
+			網際網路記錄	C:\Users\bdlab\AppData\Local\Microsoft\Windows\History
+			視訊	C:\Users\Public\Videos
+			通用我的最愛	C:\Users\bdlab\Favorites
+			開始功能表	C:\ProgramData\Microsoft\Windows\Start Menu
+			開始功能表程式集	C:\ProgramData\Microsoft\Windows\Start Menu\Programs
+			音樂	C:\Users\Public\Music
+		進程清單
+				ApplicationFrameHost.exe
+					進程識別碼	5580
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Windows\System32\ApplicationFrameHost.exe
+					記憶體使用量	24 MB
+					尖峰記憶體使用量	34 MB
+				audiodg.exe
+					進程識別碼	10840
+					使用者	LOCAL SERVICE
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\audiodg.exe
+					記憶體使用量	14 MB
+					尖峰記憶體使用量	15 MB
+				browser_broker.exe
+					進程識別碼	10560
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Windows\System32\browser_broker.exe
+					記憶體使用量	5.39 MB
+					尖峰記憶體使用量	15 MB
+				chrome.exe
+					進程識別碼	11596
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+					記憶體使用量	348 MB
+					尖峰記憶體使用量	493 MB
+				chrome.exe
+					進程識別碼	12000
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+					記憶體使用量	53 MB
+					尖峰記憶體使用量	54 MB
+				chrome.exe
+					進程識別碼	11940
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+					記憶體使用量	8.25 MB
+					尖峰記憶體使用量	8.27 MB
+				chrome.exe
+					進程識別碼	5928
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+					記憶體使用量	88 MB
+					尖峰記憶體使用量	198 MB
+				chrome.exe
+					進程識別碼	1868
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+					記憶體使用量	39 MB
+					尖峰記憶體使用量	39 MB
+				chrome.exe
+					進程識別碼	2956
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+					記憶體使用量	16 MB
+					尖峰記憶體使用量	17 MB
+				chrome.exe
+					進程識別碼	5684
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+					記憶體使用量	123 MB
+					尖峰記憶體使用量	165 MB
+				chrome.exe
+					進程識別碼	11228
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+					記憶體使用量	120 MB
+					尖峰記憶體使用量	162 MB
+				chrome.exe
+					進程識別碼	5992
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+					記憶體使用量	34 MB
+					尖峰記憶體使用量	35 MB
+				chrome.exe
+					進程識別碼	724
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+					記憶體使用量	234 MB
+					尖峰記憶體使用量	335 MB
+				chrome.exe
+					進程識別碼	8240
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+					記憶體使用量	34 MB
+					尖峰記憶體使用量	35 MB
+				chrome.exe
+					進程識別碼	12760
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+					記憶體使用量	100 MB
+					尖峰記憶體使用量	164 MB
+				chrome.exe
+					進程識別碼	12316
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+					記憶體使用量	22 MB
+					尖峰記憶體使用量	23 MB
+				cmd.exe
+					進程識別碼	11720
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Windows\System32\cmd.exe
+					記憶體使用量	1.39 MB
+					尖峰記憶體使用量	4.30 MB
+				cmd.exe
+					進程識別碼	10176
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Windows\System32\cmd.exe
+					記憶體使用量	3.68 MB
+					尖峰記憶體使用量	3.77 MB
+				conhost.exe
+					進程識別碼	8688
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Windows\System32\conhost.exe
+					記憶體使用量	14 MB
+					尖峰記憶體使用量	23 MB
+				csrss.exe
+					進程識別碼	528
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\csrss.exe
+					記憶體使用量	2.25 MB
+					尖峰記憶體使用量	5.21 MB
+				csrss.exe
+					進程識別碼	632
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\csrss.exe
+					記憶體使用量	2.70 MB
+					尖峰記憶體使用量	82 MB
+				csrss.exe
+					進程識別碼	7276
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\csrss.exe
+					記憶體使用量	4.69 MB
+					尖峰記憶體使用量	11 MB
+				ctfmon.exe
+					進程識別碼	4296
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Windows\System32\ctfmon.exe
+					記憶體使用量	23 MB
+					尖峰記憶體使用量	23 MB
+				dllhost.exe
+					進程識別碼	5996
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Windows\System32\dllhost.exe
+					記憶體使用量	4.24 MB
+					尖峰記憶體使用量	10 MB
+				dllhost.exe
+					進程識別碼	6048
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Windows\System32\dllhost.exe
+					記憶體使用量	5.64 MB
+					尖峰記憶體使用量	18 MB
+				dllhost.exe
+					進程識別碼	9712
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Windows\System32\dllhost.exe
+					記憶體使用量	4.16 MB
+					尖峰記憶體使用量	17 MB
+				dwm.exe
+					進程識別碼	4300
+					使用者	DWM-4
+					網域	Window Manager
+					路徑	C:\Windows\System32\dwm.exe
+					記憶體使用量	36 MB
+					尖峰記憶體使用量	40 MB
+				dwm.exe
+					進程識別碼	612
+					使用者	DWM-1
+					網域	Window Manager
+					路徑	C:\Windows\System32\dwm.exe
+					記憶體使用量	141 MB
+					尖峰記憶體使用量	251 MB
+				explorer.exe
+					進程識別碼	5248
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Windows\explorer.exe
+					記憶體使用量	183 MB
+					尖峰記憶體使用量	241 MB
+				fontdrvhost.exe
+					進程識別碼	932
+					使用者	UMFD-1
+					網域	Font Driver Host
+					路徑	C:\Windows\System32\fontdrvhost.exe
+					記憶體使用量	6.63 MB
+					尖峰記憶體使用量	28 MB
+				fontdrvhost.exe
+					進程識別碼	924
+					使用者	UMFD-0
+					網域	Font Driver Host
+					路徑	C:\Windows\System32\fontdrvhost.exe
+					記憶體使用量	3.15 MB
+					尖峰記憶體使用量	4.11 MB
+				fontdrvhost.exe
+					進程識別碼	5984
+					使用者	UMFD-4
+					網域	Font Driver Host
+					路徑	C:\Windows\System32\fontdrvhost.exe
+					記憶體使用量	3.29 MB
+					尖峰記憶體使用量	3.32 MB
+				HelpPane.exe
+					進程識別碼	12452
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Windows\HelpPane.exe
+					記憶體使用量	7.35 MB
+					尖峰記憶體使用量	25 MB
+				httpd.exe
+					進程識別碼	6600
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\xampp\apache\bin\httpd.exe
+					記憶體使用量	7.76 MB
+					尖峰記憶體使用量	20 MB
+				httpd.exe
+					進程識別碼	2356
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\xampp\apache\bin\httpd.exe
+					記憶體使用量	16 MB
+					尖峰記憶體使用量	61 MB
+				igfxCUIService.exe
+					進程識別碼	2008
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\igfxCUIService.exe
+					記憶體使用量	3.68 MB
+					尖峰記憶體使用量	9.45 MB
+				igfxEM.exe
+					進程識別碼	5072
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Windows\System32\igfxEM.exe
+					記憶體使用量	8.40 MB
+					尖峰記憶體使用量	12 MB
+				igfxHK.exe
+					進程識別碼	5080
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Windows\System32\igfxHK.exe
+					記憶體使用量	4.05 MB
+					尖峰記憶體使用量	9.04 MB
+				igfxTray.exe
+					進程識別碼	8356
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Windows\System32\igfxTray.exe
+					記憶體使用量	12 MB
+					尖峰記憶體使用量	13 MB
+				ImeBroker.exe
+					進程識別碼	6012
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Windows\System32\IME\SHARED\ImeBroker.exe
+					記憶體使用量	4.82 MB
+					尖峰記憶體使用量	13 MB
+				LogonUI.exe
+					進程識別碼	4452
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\LogonUI.exe
+					記憶體使用量	53 MB
+					尖峰記憶體使用量	60 MB
+				lsass.exe
+					進程識別碼	708
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\lsass.exe
+					記憶體使用量	14 MB
+					尖峰記憶體使用量	19 MB
+				Memory Compression
+					進程識別碼	1576
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					記憶體使用量	312 KB
+					尖峰記憶體使用量	3.14 MB
+				Microsoft.Photos.exe
+					進程識別碼	6040
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2020.19081.28230.0_x64__8wekyb3d8bbwe\Microsoft.Photos.exe
+					記憶體使用量	63 MB
+					尖峰記憶體使用量	81 MB
+				MicrosoftEdge.exe
+					進程識別碼	11576
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\MicrosoftEdge.exe
+					記憶體使用量	28 MB
+					尖峰記憶體使用量	71 MB
+				MicrosoftEdgeCP.exe
+					進程識別碼	4072
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Windows\System32\MicrosoftEdgeCP.exe
+					記憶體使用量	124 MB
+					尖峰記憶體使用量	245 MB
+				MicrosoftEdgeSH.exe
+					進程識別碼	12900
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Windows\System32\MicrosoftEdgeSH.exe
+					記憶體使用量	2.92 MB
+					尖峰記憶體使用量	22 MB
+				mongod.exe
+					進程識別碼	3792
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Program Files\MongoDB\Server\3.2\bin\mongod.exe
+					記憶體使用量	15 MB
+					尖峰記憶體使用量	50 MB
+				MsMpEng.exe
+					進程識別碼	1628
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.2009.7-0\MsMpEng.exe
+					記憶體使用量	334 MB
+					尖峰記憶體使用量	1.36 GB
+				NisSrv.exe
+					進程識別碼	9920
+					使用者	LOCAL SERVICE
+					網域	NT AUTHORITY
+					路徑	C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.2009.7-0\NisSrv.exe
+					記憶體使用量	9.22 MB
+					尖峰記憶體使用量	13 MB
+				notepad.exe
+					進程識別碼	3972
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Windows\SysWOW64\notepad.exe
+					記憶體使用量	12 MB
+					尖峰記憶體使用量	21 MB
+				OneDrive.exe
+					進程識別碼	9704
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Users\bdlab\AppData\Local\Microsoft\OneDrive\OneDrive.exe
+					記憶體使用量	37 MB
+					尖峰記憶體使用量	76 MB
+				python.exe
+					進程識別碼	6700
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Users\bdlab\AppData\Local\Programs\Python\Python38\python.exe
+					記憶體使用量	5.43 MB
+					尖峰記憶體使用量	9.80 MB
+				python.exe
+					進程識別碼	132
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Users\bdlab\AppData\Local\Programs\Python\Python38\python.exe
+					記憶體使用量	24 MB
+					尖峰記憶體使用量	24 MB
+				rdpclip.exe
+					進程識別碼	11448
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Windows\System32\rdpclip.exe
+					記憶體使用量	12 MB
+					尖峰記憶體使用量	13 MB
+				Registry
+					進程識別碼	104
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					記憶體使用量	31 MB
+					尖峰記憶體使用量	212 MB
+				remoting_host.exe
+					進程識別碼	3400
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Program Files (x86)\Google\Chrome Remote Desktop\85.0.4183.6\remoting_host.exe
+					記憶體使用量	5.02 MB
+					尖峰記憶體使用量	11 MB
+				remoting_host.exe
+					進程識別碼	4820
+					使用者	LOCAL SERVICE
+					網域	NT AUTHORITY
+					路徑	C:\Program Files (x86)\Google\Chrome Remote Desktop\85.0.4183.6\remoting_host.exe
+					記憶體使用量	23 MB
+					尖峰記憶體使用量	67 MB
+				RuntimeBroker.exe
+					進程識別碼	7816
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Windows\System32\RuntimeBroker.exe
+					記憶體使用量	12 MB
+					尖峰記憶體使用量	29 MB
+				RuntimeBroker.exe
+					進程識別碼	976
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Windows\System32\RuntimeBroker.exe
+					記憶體使用量	3.82 MB
+					尖峰記憶體使用量	7.55 MB
+				RuntimeBroker.exe
+					進程識別碼	8284
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Windows\System32\RuntimeBroker.exe
+					記憶體使用量	3.01 MB
+					尖峰記憶體使用量	16 MB
+				RuntimeBroker.exe
+					進程識別碼	2704
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Windows\System32\RuntimeBroker.exe
+					記憶體使用量	4.89 MB
+					尖峰記憶體使用量	8.94 MB
+				RuntimeBroker.exe
+					進程識別碼	3796
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Windows\System32\RuntimeBroker.exe
+					記憶體使用量	29 MB
+					尖峰記憶體使用量	34 MB
+				RuntimeBroker.exe
+					進程識別碼	7464
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Windows\System32\RuntimeBroker.exe
+					記憶體使用量	13 MB
+					尖峰記憶體使用量	21 MB
+				RuntimeBroker.exe
+					進程識別碼	5732
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Windows\System32\RuntimeBroker.exe
+					記憶體使用量	15 MB
+					尖峰記憶體使用量	28 MB
+				RuntimeBroker.exe
+					進程識別碼	6920
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Windows\System32\RuntimeBroker.exe
+					記憶體使用量	6.04 MB
+					尖峰記憶體使用量	29 MB
+				RuntimeBroker.exe
+					進程識別碼	6176
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Windows\System32\RuntimeBroker.exe
+					記憶體使用量	17 MB
+					尖峰記憶體使用量	32 MB
+				RuntimeBroker.exe
+					進程識別碼	6648
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Windows\System32\RuntimeBroker.exe
+					記憶體使用量	30 MB
+					尖峰記憶體使用量	53 MB
+				SearchIndexer.exe
+					進程識別碼	6332
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\SearchIndexer.exe
+					記憶體使用量	46 MB
+					尖峰記憶體使用量	109 MB
+				SearchUI.exe
+					進程識別碼	8092
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe
+					記憶體使用量	131 MB
+					尖峰記憶體使用量	238 MB
+				SecurityHealthHost.exe
+					進程識別碼	6076
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Windows\System32\SecurityHealthHost.exe
+					記憶體使用量	6.31 MB
+					尖峰記憶體使用量	14 MB
+				SecurityHealthService.exe
+					進程識別碼	7572
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\SecurityHealthService.exe
+					記憶體使用量	10 MB
+					尖峰記憶體使用量	15 MB
+				SecurityHealthSystray.exe
+					進程識別碼	7508
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Windows\System32\SecurityHealthSystray.exe
+					記憶體使用量	4.25 MB
+					尖峰記憶體使用量	8.60 MB
+				services.exe
+					進程識別碼	692
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\services.exe
+					記憶體使用量	7.73 MB
+					尖峰記憶體使用量	9.68 MB
+				SgrmBroker.exe
+					進程識別碼	2384
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\SgrmBroker.exe
+					記憶體使用量	4.89 MB
+					尖峰記憶體使用量	6.71 MB
+				ShellExperienceHost.exe
+					進程識別碼	6944
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
+					記憶體使用量	40 MB
+					尖峰記憶體使用量	107 MB
+				sihost.exe
+					進程識別碼	1168
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Windows\System32\sihost.exe
+					記憶體使用量	20 MB
+					尖峰記憶體使用量	27 MB
+				SkypeApp.exe
+					進程識別碼	8064
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Program Files\WindowsApps\Microsoft.SkypeApp_14.56.102.0_x64__kzf8qxf38zg5c\SkypeApp.exe
+					記憶體使用量	9.96 MB
+					尖峰記憶體使用量	46 MB
+				SkypeBackgroundHost.exe
+					進程識別碼	7052
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Program Files\WindowsApps\Microsoft.SkypeApp_14.56.102.0_x64__kzf8qxf38zg5c\SkypeBackgroundHost.exe
+					記憶體使用量	1.24 MB
+					尖峰記憶體使用量	12 MB
+				smartscreen.exe
+					進程識別碼	6796
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Windows\System32\smartscreen.exe
+					記憶體使用量	29 MB
+					尖峰記憶體使用量	138 MB
+				smss.exe
+					進程識別碼	412
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\smss.exe
+					記憶體使用量	636 KB
+					尖峰記憶體使用量	1.25 MB
+				Speccy64.exe
+					進程識別碼	13064
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Users\bdlab\Desktop\SpeccyPortableTW\Speccy64.exe
+					記憶體使用量	34 MB
+					尖峰記憶體使用量	34 MB
+				spoolsv.exe
+					進程識別碼	3032
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\spoolsv.exe
+					記憶體使用量	15 MB
+					尖峰記憶體使用量	17 MB
+				StartMenuExperienceHost.exe
+					進程識別碼	5672
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe
+					記憶體使用量	203 MB
+					尖峰記憶體使用量	203 MB
+				svchost.exe
+					進程識別碼	1528
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	148 MB
+					尖峰記憶體使用量	222 MB
+				svchost.exe
+					進程識別碼	4088
+					使用者	LOCAL SERVICE
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	6.38 MB
+					尖峰記憶體使用量	6.39 MB
+				svchost.exe
+					進程識別碼	13172
+					使用者	LOCAL SERVICE
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	5.83 MB
+					尖峰記憶體使用量	5.84 MB
+				svchost.exe
+					進程識別碼	900
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	1.32 MB
+					尖峰記憶體使用量	4.04 MB
+				svchost.exe
+					進程識別碼	948
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	37 MB
+					尖峰記憶體使用量	47 MB
+				svchost.exe
+					進程識別碼	444
+					使用者	NETWORK SERVICE
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	14 MB
+					尖峰記憶體使用量	16 MB
+				svchost.exe
+					進程識別碼	520
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	6.50 MB
+					尖峰記憶體使用量	11 MB
+				svchost.exe
+					進程識別碼	1108
+					使用者	NETWORK SERVICE
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	101 MB
+					尖峰記憶體使用量	156 MB
+				svchost.exe
+					進程識別碼	1184
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	9.19 MB
+					尖峰記憶體使用量	15 MB
+				svchost.exe
+					進程識別碼	1260
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	5.57 MB
+					尖峰記憶體使用量	12 MB
+				svchost.exe
+					進程識別碼	1380
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	5.65 MB
+					尖峰記憶體使用量	10 MB
+				svchost.exe
+					進程識別碼	1532
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	1.86 MB
+					尖峰記憶體使用量	5.83 MB
+				svchost.exe
+					進程識別碼	1620
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	6.95 MB
+					尖峰記憶體使用量	9.23 MB
+				svchost.exe
+					進程識別碼	1728
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	4.55 MB
+					尖峰記憶體使用量	6.78 MB
+				svchost.exe
+					進程識別碼	1756
+					使用者	LOCAL SERVICE
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	2.62 MB
+					尖峰記憶體使用量	5.90 MB
+				svchost.exe
+					進程識別碼	1764
+					使用者	LOCAL SERVICE
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	4.90 MB
+					尖峰記憶體使用量	12 MB
+				svchost.exe
+					進程識別碼	1780
+					使用者	LOCAL SERVICE
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	18 MB
+					尖峰記憶體使用量	20 MB
+				svchost.exe
+					進程識別碼	1788
+					使用者	LOCAL SERVICE
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	5.85 MB
+					尖峰記憶體使用量	8.41 MB
+				svchost.exe
+					進程識別碼	1796
+					使用者	LOCAL SERVICE
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	4.60 MB
+					尖峰記憶體使用量	7.85 MB
+				svchost.exe
+					進程識別碼	1920
+					使用者	NETWORK SERVICE
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	3.13 MB
+					尖峰記憶體使用量	8.04 MB
+				svchost.exe
+					進程識別碼	1936
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	4.97 MB
+					尖峰記憶體使用量	8.36 MB
+				svchost.exe
+					進程識別碼	1992
+					使用者	LOCAL SERVICE
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	3.96 MB
+					尖峰記憶體使用量	7.17 MB
+				svchost.exe
+					進程識別碼	2088
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	3.95 MB
+					尖峰記憶體使用量	8.73 MB
+				svchost.exe
+					進程識別碼	2124
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	4.53 MB
+					尖峰記憶體使用量	7.52 MB
+				svchost.exe
+					進程識別碼	2336
+					使用者	LOCAL SERVICE
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	5.43 MB
+					尖峰記憶體使用量	9.50 MB
+				svchost.exe
+					進程識別碼	7880
+					使用者	LOCAL SERVICE
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	3.63 MB
+					尖峰記憶體使用量	7.39 MB
+				svchost.exe
+					進程識別碼	6416
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	12 MB
+					尖峰記憶體使用量	20 MB
+				svchost.exe
+					進程識別碼	400
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	4.33 MB
+					尖峰記憶體使用量	11 MB
+				svchost.exe
+					進程識別碼	5448
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	7.50 MB
+					尖峰記憶體使用量	37 MB
+				svchost.exe
+					進程識別碼	8112
+					使用者	LOCAL SERVICE
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	11 MB
+					尖峰記憶體使用量	18 MB
+				svchost.exe
+					進程識別碼	7900
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	5.38 MB
+					尖峰記憶體使用量	8.93 MB
+				svchost.exe
+					進程識別碼	6212
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	6.05 MB
+					尖峰記憶體使用量	9.66 MB
+				svchost.exe
+					進程識別碼	6376
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	3.66 MB
+					尖峰記憶體使用量	10 MB
+				svchost.exe
+					進程識別碼	8584
+					使用者	LOCAL SERVICE
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	2.36 MB
+					尖峰記憶體使用量	11 MB
+				svchost.exe
+					進程識別碼	2848
+					使用者	LOCAL SERVICE
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	1.97 MB
+					尖峰記憶體使用量	5.49 MB
+				svchost.exe
+					進程識別碼	6420
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	2.92 MB
+					尖峰記憶體使用量	15 MB
+				svchost.exe
+					進程識別碼	8572
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	13 MB
+					尖峰記憶體使用量	21 MB
+				svchost.exe
+					進程識別碼	10256
+					使用者	LOCAL SERVICE
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	2.64 MB
+					尖峰記憶體使用量	8.66 MB
+				svchost.exe
+					進程識別碼	10748
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	3.86 MB
+					尖峰記憶體使用量	13 MB
+				svchost.exe
+					進程識別碼	1268
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	5.23 MB
+					尖峰記憶體使用量	11 MB
+				svchost.exe
+					進程識別碼	5956
+					使用者	LOCAL SERVICE
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	7.20 MB
+					尖峰記憶體使用量	15 MB
+				svchost.exe
+					進程識別碼	5948
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	24 MB
+					尖峰記憶體使用量	30 MB
+				svchost.exe
+					進程識別碼	5864
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	13 MB
+					尖峰記憶體使用量	25 MB
+				svchost.exe
+					進程識別碼	5596
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	3.66 MB
+					尖峰記憶體使用量	7.78 MB
+				svchost.exe
+					進程識別碼	5372
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	9.84 MB
+					尖峰記憶體使用量	20 MB
+				svchost.exe
+					進程識別碼	5288
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	38 MB
+					尖峰記憶體使用量	45 MB
+				svchost.exe
+					進程識別碼	5184
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	11 MB
+					尖峰記憶體使用量	16 MB
+				svchost.exe
+					進程識別碼	3588
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	5.56 MB
+					尖峰記憶體使用量	12 MB
+				svchost.exe
+					進程識別碼	3476
+					使用者	LOCAL SERVICE
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	1.99 MB
+					尖峰記憶體使用量	5.50 MB
+				svchost.exe
+					進程識別碼	3340
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	15 MB
+					尖峰記憶體使用量	23 MB
+				svchost.exe
+					進程識別碼	10736
+					使用者	LOCAL SERVICE
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	8.30 MB
+					尖峰記憶體使用量	8.48 MB
+				svchost.exe
+					進程識別碼	3320
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	1.26 MB
+					尖峰記憶體使用量	5.63 MB
+				svchost.exe
+					進程識別碼	3288
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	3.85 MB
+					尖峰記憶體使用量	8.76 MB
+				svchost.exe
+					進程識別碼	3264
+					使用者	LOCAL SERVICE
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	1.99 MB
+					尖峰記憶體使用量	6.68 MB
+				svchost.exe
+					進程識別碼	3232
+					使用者	LOCAL SERVICE
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	37 MB
+					尖峰記憶體使用量	93 MB
+				svchost.exe
+					進程識別碼	3228
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	6.60 MB
+					尖峰記憶體使用量	12 MB
+				svchost.exe
+					進程識別碼	3204
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	40 MB
+					尖峰記憶體使用量	68 MB
+				svchost.exe
+					進程識別碼	3196
+					使用者	NETWORK SERVICE
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	14 MB
+					尖峰記憶體使用量	73 MB
+				svchost.exe
+					進程識別碼	3068
+					使用者	LOCAL SERVICE
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	13 MB
+					尖峰記憶體使用量	21 MB
+				svchost.exe
+					進程識別碼	2924
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	3.71 MB
+					尖峰記憶體使用量	12 MB
+				svchost.exe
+					進程識別碼	2852
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	7.04 MB
+					尖峰記憶體使用量	15 MB
+				svchost.exe
+					進程識別碼	2684
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	13 MB
+					尖峰記憶體使用量	18 MB
+				svchost.exe
+					進程識別碼	2508
+					使用者	LOCAL SERVICE
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	8.66 MB
+					尖峰記憶體使用量	13 MB
+				svchost.exe
+					進程識別碼	2660
+					使用者	LOCAL SERVICE
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	4.42 MB
+					尖峰記憶體使用量	9.89 MB
+				svchost.exe
+					進程識別碼	2652
+					使用者	LOCAL SERVICE
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	2.52 MB
+					尖峰記憶體使用量	6.61 MB
+				svchost.exe
+					進程識別碼	2564
+					使用者	LOCAL SERVICE
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	6.64 MB
+					尖峰記憶體使用量	9.15 MB
+				svchost.exe
+					進程識別碼	13060
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	6.77 MB
+					尖峰記憶體使用量	6.82 MB
+				svchost.exe
+					進程識別碼	13224
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	6.42 MB
+					尖峰記憶體使用量	6.51 MB
+				svchost.exe
+					進程識別碼	2596
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	7.27 MB
+					尖峰記憶體使用量	7.32 MB
+				svchost.exe
+					進程識別碼	2436
+					使用者	NETWORK SERVICE
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	6.58 MB
+					尖峰記憶體使用量	9.12 MB
+				svchost.exe
+					進程識別碼	2372
+					使用者	NETWORK SERVICE
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	9.05 MB
+					尖峰記憶體使用量	12 MB
+				svchost.exe
+					進程識別碼	2296
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	16 MB
+					尖峰記憶體使用量	41 MB
+				svchost.exe
+					進程識別碼	12012
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	6.90 MB
+					尖峰記憶體使用量	6.96 MB
+				svchost.exe
+					進程識別碼	2244
+					使用者	LOCAL SERVICE
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	3.83 MB
+					尖峰記憶體使用量	7.45 MB
+				svchost.exe
+					進程識別碼	3540
+					使用者	LOCAL SERVICE
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	6.95 MB
+					尖峰記憶體使用量	7.04 MB
+				svchost.exe
+					進程識別碼	2164
+					使用者	LOCAL SERVICE
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	3.46 MB
+					尖峰記憶體使用量	11 MB
+				svchost.exe
+					進程識別碼	2132
+					使用者	LOCAL SERVICE
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\svchost.exe
+					記憶體使用量	5.26 MB
+					尖峰記憶體使用量	19 MB
+				System
+					進程識別碼	4
+					記憶體使用量	2.95 MB
+					尖峰記憶體使用量	14 MB
+				System Idle Process
+					進程識別碼	0
+				SystemSettings.exe
+					進程識別碼	10140
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+					記憶體使用量	692 KB
+					尖峰記憶體使用量	77 MB
+				taskhostw.exe
+					進程識別碼	5420
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Windows\System32\taskhostw.exe
+					記憶體使用量	11 MB
+					尖峰記憶體使用量	16 MB
+				Video.UI.exe
+					進程識別碼	2280
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Program Files\WindowsApps\Microsoft.ZuneVideo_10.20022.11011.0_x64__8wekyb3d8bbwe\Video.UI.exe
+					記憶體使用量	11 MB
+					尖峰記憶體使用量	55 MB
+				WindowsInternal.ComposableShell.Experiences.TextInput.InputApp.exe
+					進程識別碼	7548
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Windows\SystemApps\InputApp_cw5n1h2txyewy\WindowsInternal.ComposableShell.Experiences.TextInput.InputApp.exe
+					記憶體使用量	18 MB
+					尖峰記憶體使用量	45 MB
+				wininit.exe
+					進程識別碼	620
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\wininit.exe
+					記憶體使用量	2.03 MB
+					尖峰記憶體使用量	6.91 MB
+				winlogon.exe
+					進程識別碼	12788
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\winlogon.exe
+					記憶體使用量	8.71 MB
+					尖峰記憶體使用量	8.82 MB
+				winlogon.exe
+					進程識別碼	776
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\winlogon.exe
+					記憶體使用量	5.10 MB
+					尖峰記憶體使用量	16 MB
+				WinStore.App.exe
+					進程識別碼	3300
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Program Files\WindowsApps\Microsoft.WindowsStore_12003.1001.1.0_x64__8wekyb3d8bbwe\WinStore.App.exe
+					記憶體使用量	600 KB
+					尖峰記憶體使用量	53 MB
+				WmiPrvSE.exe
+					進程識別碼	256
+					使用者	NETWORK SERVICE
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\wbem\WmiPrvSE.exe
+					記憶體使用量	13 MB
+					尖峰記憶體使用量	13 MB
+				WmiPrvSE.exe
+					進程識別碼	10536
+					使用者	SYSTEM
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\wbem\WmiPrvSE.exe
+					記憶體使用量	8.41 MB
+					尖峰記憶體使用量	8.41 MB
+				WUDFHost.exe
+					進程識別碼	12728
+					使用者	LOCAL SERVICE
+					網域	NT AUTHORITY
+					路徑	C:\Windows\System32\WUDFHost.exe
+					記憶體使用量	27 MB
+					尖峰記憶體使用量	27 MB
+				xampp-control.exe
+					進程識別碼	9440
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\xampp\xampp-control.exe
+					記憶體使用量	15 MB
+					尖峰記憶體使用量	35 MB
+				xampp-control.exe
+					進程識別碼	8468
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\xampp\xampp-control.exe
+					記憶體使用量	17 MB
+					尖峰記憶體使用量	34 MB
+				YourPhone.exe
+					進程識別碼	6876
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Program Files\WindowsApps\Microsoft.YourPhone_1.20012.135.0_x64__8wekyb3d8bbwe\YourPhone.exe
+					記憶體使用量	9.52 MB
+					尖峰記憶體使用量	39 MB
+				YourPhoneServer.exe
+					進程識別碼	1152
+					使用者	bdlab
+					網域	DESKTOP-N49RS40
+					路徑	C:\Program Files\WindowsApps\Microsoft.YourPhone_1.20012.135.0_x64__8wekyb3d8bbwe\YourPhoneServer\YourPhoneServer.exe
+					記憶體使用量	6.93 MB
+					尖峰記憶體使用量	13 MB
+		安全性選項
+			DCOM: 以 Security Descriptor Definition Language (SDDL) 語法表示的電腦存取限制	尚未定義
+			DCOM: 以 Security Descriptor Definition Language (SDDL) 語法表示的電腦啟動限制	尚未定義
+			Domain controller: LDAP server channel binding token requirements	尚未定義
+			Microsoft 網路用戶端: 傳送未加密的密碼到其他廠商的 SMB 伺服器	已停用
+			Microsoft 網路用戶端: 數位簽章用戶端的通訊 (如果伺服器同意)	已啟用
+			Microsoft 網路用戶端: 數位簽章用戶端的通訊 (自動)	已停用
+			Microsoft 網路伺服器: 伺服器 SPN 目標名稱驗證層級	尚未定義
+			Microsoft 網路伺服器: 當登入時數到期時，中斷用戶端連線	已啟用
+			Microsoft 網路伺服器: 嘗試 S4U2Self 以取得宣告資訊	尚未定義
+			Microsoft 網路伺服器: 數位簽章伺服器的通訊 (如果用戶端同意)	已停用
+			Microsoft 網路伺服器: 數位簽章伺服器的通訊 (自動)	已停用
+			Microsoft 網路伺服器: 暫停工作階段前，要求的閒置時間	15 分鐘
+			互動式登入: 不要在登入期間顯示使用者名稱	尚未定義
+			互動式登入: 不要求按 CTRL+ALT+DEL 鍵	尚未定義
+			互動式登入: 不要顯示上次登入	已停用
+			互動式登入: 在工作階段被封鎖時顯示使用者資訊	尚未定義
+			互動式登入: 在密碼到期前提示使用者變更密碼	5 天
+			互動式登入: 要求必須使用 Windows Hello 企業版或智慧卡	已停用
+			互動式登入: 要求網域控制站驗證以解除鎖定工作站	已停用
+			互動式登入: 智慧卡移除操作	沒有動作
+			互動式登入: 給登入使用者的訊息本文
+			互動式登入: 給登入使用者的訊息標題
+			互動式登入: 電腦未使用時間限制	尚未定義
+			互動式登入: 電腦帳戶鎖定閾值	尚未定義
+			互動式登入: 網域控制站無法使用時，要快取的先前登入次數	10 登入
+			系統物件: 加強內部系統物件的預設權限 (例如:符號連結)	已啟用
+			系統物件: 要求不區分大小寫用於非 Windows 子系統	已啟用
+			系統密碼編譯: 使用 FIPS 相容演算法於加密，雜湊，以及簽章	已停用
+			系統密碼編譯: 對使用者儲存在電腦上的金鑰強制使用增強式金鑰保護	尚未定義
+			系統設定: 於軟體限制原則對 Windows 可執行檔使用憑證規則	已停用
+			系統設定: 選擇性的子系統
+			使用者帳戶控制: 允許 UIAccess 應用程式不使用安全桌面來提示提升權限	已停用
+			使用者帳戶控制: 內建的 Administrator 帳戶的管理員核准模式	尚未定義
+			使用者帳戶控制: 在管理員核准模式，系統管理員之提升權限提示的行為	提示要求同意非 Windows 二進位檔案
+			使用者帳戶控制: 所有系統管理員均以管理員核准模式執行	已啟用
+			使用者帳戶控制: 偵測應用程式安裝，並提示提升權限	已啟用
+			使用者帳戶控制: 將檔案及登錄寫入失敗虛擬化並儲存至每一使用者位置	已啟用
+			使用者帳戶控制: 提示提升權限時切換到安全桌面	已啟用
+			使用者帳戶控制: 僅針對已簽章與驗證過的可執行檔，提高其權限	已停用
+			使用者帳戶控制: 僅針對在安全位置安裝的 UIAccess 應用程式，提高其權限	已啟用
+			使用者帳戶控制: 標準使用者之提高權限提示的行為	提示輸入認證
+			修復主控台: 允許自動系統管理登入	已停用
+			修復主控台: 允許軟碟複製以及存取所有磁碟和所有資料夾	已停用
+			帳戶: Administrator 帳戶狀態	已停用
+			帳戶: Guest 帳戶狀態	已停用
+			帳戶: 封鎖 Microsoft 帳戶	尚未定義
+			帳戶: 重新命名系統管理員帳戶	Administrator
+			帳戶: 重新命名來賓帳戶名稱	Guest
+			帳戶: 限制使用空白密碼的本機帳戶僅能登入到主控台	已啟用
+			裝置: CD-ROM 存取只限於登入本機的使用者	尚未定義
+			裝置: 允許卸除而不須登入	已啟用
+			裝置: 允許格式化以及退出抽取式媒體	尚未定義
+			裝置: 防止使用者安裝印表機驅動程式	已停用
+			裝置: 軟碟機存取只限於登入本機的使用者	尚未定義
+			網域成員: 安全通道資料加以數位加密 (可能的話)	已啟用
+			網域成員: 安全通道資料加以數位加密或簽章 (自動)	已啟用
+			網域成員: 安全通道資料加以數位簽章 (自動)	已啟用
+			網域成員: 要求增強式 (Windows 2000 或更新) 工作階段金鑰	已啟用
+			網域成員: 停用電腦帳戶密碼變更	已停用
+			網域成員: 最長電腦帳戶密碼有效期	30 天
+			網域控制站: LDAP 伺服器簽章要求	尚未定義
+			網域控制站: 允許伺服器操作者排程工作	尚未定義
+			網域控制站: 拒絕電腦帳戶密碼變更	尚未定義
+			網路存取: 不允許 SAM 帳戶和共用的匿名列舉	已停用
+			網路存取: 不允許 SAM 帳戶的匿名列舉	已啟用
+			網路存取: 不允許存放網路驗證的密碼與認證	已停用
+			網路存取: 允許匿名 SID/名稱轉譯	已停用
+			網路存取: 可以匿名存取的共用	尚未定義
+			網路存取: 可以匿名存取的具名管道
+			網路存取: 可遠端存取的登錄路徑	System\CurrentControlSet\Control\ProductOptions,System\CurrentControlSet\Control\Server Applications,Software\Microsoft\Windows NT\CurrentVersion
+			網路存取: 可遠端存取的登錄路徑及子路徑	System\CurrentControlSet\Control\Print\Printers,System\CurrentControlSet\Services\Eventlog,Software\Microsoft\OLAP Server,Software\Microsoft\Windows NT\CurrentVersion\Print,Software\Microsoft\Windows NT\CurrentVersion\Windows,System\CurrentControlSet\Control\ContentIndex,System\CurrentControlSet\Control\Terminal Server,System\CurrentControlSet\Control\Terminal Server\UserConfig,System\CurrentControlSet\Control\Terminal Server\DefaultUserConfiguration,Software\Microsoft\Windows NT\CurrentVersion\Perflib,System\CurrentControlSet\Services\SysmonLog
+			網路存取: 共用和安全性模式用於本機帳戶	傳統 - 本機使用者以自身身分驗證
+			網路存取: 限制允許對 SAM 發出遠端呼叫的用戶端
+			網路存取: 限制匿名存取具名管道和共用	已啟用
+			網路存取: 讓 Everyone 權限套用到匿名使用者	已停用
+			網路安全性: LAN Manager 驗證等級	尚未定義
+			網路安全性: LDAP 用戶端簽章要求	交涉簽章
+			網路安全性: NTLM SSP 為主的 (包含安全 RPC) 用戶端的最小工作階段安全性	要求 128 位元加密
+			網路安全性: NTLM SSP 為主的 (包含安全 RPC) 伺服器的最小工作階段安全性	要求 128 位元加密
+			網路安全性: 下次密碼變更時不儲存 LAN Manager 雜湊數值	已啟用
+			網路安全性: 允許 Local System 對 NTLM 使用電腦身分識別	尚未定義
+			網路安全性: 允許 LocalSystem NULL 工作階段回復	尚未定義
+			網路安全性: 允許對此電腦的 PKU2U 驗證要求使用線上身分識別。
+
+	尚未定義
+			網路安全性: 限制 NTLM: 送往遠端伺服器的連出 NTLM 流量	尚未定義
+			網路安全性: 限制 NTLM: 這個網域中的 NTLM 驗證	尚未定義
+			網路安全性: 限制 NTLM: 連入 NTLM 流量	尚未定義
+			網路安全性: 限制 NTLM: 新增 NTLM 驗證的遠端伺服器例外	尚未定義
+			網路安全性: 限制 NTLM: 新增這個網域的伺服器例外	尚未定義
+			網路安全性: 限制 NTLM: 稽核這個網域的 NTLM 驗證	尚未定義
+			網路安全性: 限制 NTLM: 稽核連入 NTLM 流量	尚未定義
+			網路安全性: 強制限制登入時數	已停用
+			網路安全性: 設定 Kerberos 允許的加密類型	尚未定義
+			稽核: 強制執行稽核原則子類別設定 (Windows Vista 或更新的版本) 以覆寫稽核原則類別設定	尚未定義
+			稽核: 當無法記錄安全性稽核時，系統立即關機	已停用
+			稽核: 稽核通用系統物件的存取	已停用
+			稽核: 稽核備份與還原權限的使用	已停用
+			關機: 允許不登入就將系統關機	已啟用
+			關機: 清除虛擬記憶體分頁檔	已停用
+		裝置樹狀目錄
+				ACPI x64 型電腦
+						Microsoft ACPI-Compliant System
+							ACPI 固定功能按鈕
+							ACPI 熱溫區
+							ACPI 熱溫區
+							ACPI 睡眠按鈕
+							ACPI 處理器彙總工具
+							ACPI 開啟/關閉按鈕
+							ACPI 風扇
+							ACPI 風扇
+							ACPI 風扇
+							ACPI 風扇
+							ACPI 風扇
+							Intel Core i5-4590 CPU @ 3.30GHz
+							Intel Core i5-4590 CPU @ 3.30GHz
+							Intel Core i5-4590 CPU @ 3.30GHz
+							Intel Core i5-4590 CPU @ 3.30GHz
+								PCI Express Root Complex
+									Intel 9 Series Chipset Family PCI Express Root Port 1 - 8C90
+									Intel 9 Series Chipset Family SMBus Host Controller - 8CA2
+									Intel Management Engine Interface
+									PCI 標準主機 CPU 橋接器
+									主機板資源
+									系統主機板
+										Intel(R) HD Graphics 4600
+											一般非 PnP 監視器
+										Intel(R) USB 3.0 可延伸主機控制器 - 1.0 (Microsoft)
+											USB 根集線器 (USB 3.0)
+										Standard Enhanced PCI to USB Host Controller
+												USB Root Hub
+													Generic USB Hub
+										High Definition Audio 控制器
+												High Definition Audio 裝置
+													Digital Audio (S/PDIF) (High Definition Audio Device)
+										Intel(R) 9 Series Chipset Family PCI Express Root Port 3 - 8C94
+											Realtek PCIe GbE Family Controller
+										Intel(R) 9 Series Chipset Family PCI Express Root Port 4 - 8C96
+											PCI-to-PCI 橋接器
+										Standard Enhanced PCI to USB Host Controller
+												USB Root Hub
+													Generic USB Hub
+										Intel(R) H97 Chipset LPC Controller - 8CC6
+											主機板資源
+											主機板資源
+											主機板資源
+											主機板資源
+											主機板資源
+											傳統裝置
+											可程式化插斷控制器
+											數值資料處理器
+											直接記憶體存取控制器
+											系統 CMOS/即時時鐘
+											系統計時器
+											通訊連接埠 (COM1)
+											高精確度事件計時器
+												印表機連接埠 (LPT1)
+													印表機連接埠邏輯介面
+										Standard SATA AHCI Controller
+											WDC WD1003FZEX-00MK2A0
+CPU
+		Intel Core i5 4590
+			核心數	4
+			執行緒	4
+			名稱	Intel Core i5 4590
+			代號	Haswell
+			封裝	Socket 1150 LGA
+			製程	22nm
+			規格	Intel Core i5-4590 CPU @ 3.30GHz
+			系列	6
+			延伸系列	6
+			型號	C
+			延伸型號	3C
+			步進	3
+			修訂	C0
+			指令ˋ集	MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, Intel 64, NX, VMX, AES, AVX, AVX2, FMA3
+			虛擬	支援, 已啟用
+			超執行緒	未支援
+			風扇速度	2089 RPM
+			匯流排速度	99.8 MHz
+			現有核心速度	3300 MHz
+			現有匯流排速度	100 MHz
+			平均溫度	37 °C
+				快取
+					L1 資料快取大小	4 x 32 KB
+					L1 指令集快取大小	4 x 32 KB
+					L2 統一快取大小	4 x 256 KB
+					L3 統一快取大小	6144 KB
+				核心數
+						核心 0
+							內核速度	1995.2 MHz
+							倍頻	x 20.0
+							匯流排速度	99.8 MHz
+							溫度	38 °C
+							執行緒	APIC ID: 0
+						核心 1
+							內核速度	1995.2 MHz
+							倍頻	x 20.0
+							匯流排速度	99.8 MHz
+							溫度	37 °C
+							執行緒	APIC ID: 2
+						核心 2
+							內核速度	1995.2 MHz
+							倍頻	x 20.0
+							匯流排速度	99.8 MHz
+							溫度	38 °C
+							執行緒	APIC ID: 4
+						核心 3
+							內核速度	1995.2 MHz
+							倍頻	x 20.0
+							匯流排速度	99.8 MHz
+							溫度	35 °C
+							執行緒	APIC ID: 6
+RAM
+		記憶體插槽
+			可用的記憶體插槽	4
+			已用的記憶體插槽	3
+			未用的記憶體插槽	1
+		記憶體
+			類型	DDR3
+			大小	24576 MB
+			通道 #	雙通道
+			DRAM 頻率	798.1 MHz
+			行位址控制器延遲時間(CL)	11 時脈
+			列位址至行位址延遲時間(tRCD)	11 時脈
+			列位址控制器預充電時間(tRP)	11 時脈
+			列動態時間(tRAS)	28 時脈
+			命令率(CR)	2T
+		實體記憶體
+			記憶體使用量	19 %
+			總實體記憶體	24 GB
+			可用實體記憶體	19 GB
+			總虛擬記憶體	27 GB
+			可用虛擬記憶體	22 GB
+		SPD
+			SPD 模組數	3
+				插槽 #1
+					類型	DDR3
+					大小	8192 MB
+					製造商	Transcend Information
+					最大頻寬	PC3-12800 (800 MHz)
+					零件編號	TS1GLK64V6H
+					序號	01279745
+					週/年	09 / 16
+						計時表
+								JEDEC #1
+									頻率	457.1 MHz
+									行位址控制器延遲時間	6.0
+									列位址至行位址延遲時間	6
+									列位址控制器預充電時間	6
+									列動態時	16
+									列迴圈時間	22
+									電壓	1.500 V
+								JEDEC #2
+									頻率	533.3 MHz
+									行位址控制器延遲時間	7.0
+									列位址至行位址延遲時間	7
+									列位址控制器預充電時間	7
+									列動態時	19
+									列迴圈時間	26
+									電壓	1.500 V
+								JEDEC #3
+									頻率	609.5 MHz
+									行位址控制器延遲時間	8.0
+									列位址至行位址延遲時間	8
+									列位址控制器預充電時間	8
+									列動態時	22
+									列迴圈時間	30
+									電壓	1.500 V
+								JEDEC #4
+									頻率	685.7 MHz
+									行位址控制器延遲時間	9.0
+									列位址至行位址延遲時間	9
+									列位址控制器預充電時間	9
+									列動態時	24
+									列迴圈時間	33
+									電壓	1.500 V
+								JEDEC #5
+									頻率	761.9 MHz
+									行位址控制器延遲時間	10.0
+									列位址至行位址延遲時間	10
+									列位址控制器預充電時間	10
+									列動態時	27
+									列迴圈時間	37
+									電壓	1.500 V
+								JEDEC #6
+									頻率	800.0 MHz
+									行位址控制器延遲時間	11.0
+									列位址至行位址延遲時間	11
+									列位址控制器預充電時間	11
+									列動態時	28
+									列迴圈時間	39
+									電壓	1.500 V
+				插槽 #2
+					類型	DDR3
+					大小	8192 MB
+					製造商	Transcend Information
+					最大頻寬	PC3-12800 (800 MHz)
+					零件編號	TS1GLK64V6H
+					序號	01279745
+					週/年	09 / 16
+						計時表
+								JEDEC #1
+									頻率	457.1 MHz
+									行位址控制器延遲時間	6.0
+									列位址至行位址延遲時間	6
+									列位址控制器預充電時間	6
+									列動態時	16
+									列迴圈時間	22
+									電壓	1.500 V
+								JEDEC #2
+									頻率	533.3 MHz
+									行位址控制器延遲時間	7.0
+									列位址至行位址延遲時間	7
+									列位址控制器預充電時間	7
+									列動態時	19
+									列迴圈時間	26
+									電壓	1.500 V
+								JEDEC #3
+									頻率	609.5 MHz
+									行位址控制器延遲時間	8.0
+									列位址至行位址延遲時間	8
+									列位址控制器預充電時間	8
+									列動態時	22
+									列迴圈時間	30
+									電壓	1.500 V
+								JEDEC #4
+									頻率	685.7 MHz
+									行位址控制器延遲時間	9.0
+									列位址至行位址延遲時間	9
+									列位址控制器預充電時間	9
+									列動態時	24
+									列迴圈時間	33
+									電壓	1.500 V
+								JEDEC #5
+									頻率	761.9 MHz
+									行位址控制器延遲時間	10.0
+									列位址至行位址延遲時間	10
+									列位址控制器預充電時間	10
+									列動態時	27
+									列迴圈時間	37
+									電壓	1.500 V
+								JEDEC #6
+									頻率	800.0 MHz
+									行位址控制器延遲時間	11.0
+									列位址至行位址延遲時間	11
+									列位址控制器預充電時間	11
+									列動態時	28
+									列迴圈時間	39
+									電壓	1.500 V
+				插槽 #3
+					類型	DDR3
+					大小	8192 MB
+					製造商	Transcend Information
+					最大頻寬	PC3-12800 (800 MHz)
+					零件編號	TS1GLK64V6H
+					序號	01279745
+					週/年	09 / 16
+						計時表
+								JEDEC #1
+									頻率	457.1 MHz
+									行位址控制器延遲時間	6.0
+									列位址至行位址延遲時間	6
+									列位址控制器預充電時間	6
+									列動態時	16
+									列迴圈時間	22
+									電壓	1.500 V
+								JEDEC #2
+									頻率	533.3 MHz
+									行位址控制器延遲時間	7.0
+									列位址至行位址延遲時間	7
+									列位址控制器預充電時間	7
+									列動態時	19
+									列迴圈時間	26
+									電壓	1.500 V
+								JEDEC #3
+									頻率	609.5 MHz
+									行位址控制器延遲時間	8.0
+									列位址至行位址延遲時間	8
+									列位址控制器預充電時間	8
+									列動態時	22
+									列迴圈時間	30
+									電壓	1.500 V
+								JEDEC #4
+									頻率	685.7 MHz
+									行位址控制器延遲時間	9.0
+									列位址至行位址延遲時間	9
+									列位址控制器預充電時間	9
+									列動態時	24
+									列迴圈時間	33
+									電壓	1.500 V
+								JEDEC #5
+									頻率	761.9 MHz
+									行位址控制器延遲時間	10.0
+									列位址至行位址延遲時間	10
+									列位址控制器預充電時間	10
+									列動態時	27
+									列迴圈時間	37
+									電壓	1.500 V
+								JEDEC #6
+									頻率	800.0 MHz
+									行位址控制器延遲時間	11.0
+									列位址至行位址延遲時間	11
+									列位址控制器預充電時間	11
+									列動態時	28
+									列迴圈時間	39
+									電壓	1.500 V
+主機板
+	製造商	Gigabyte Technology Co. Ltd.
+	型號	H97M-D3H (SOCKET 0)
+	版本	x.x
+	晶片組供應商	Intel
+	晶片組型號	Haswell
+	晶片組修訂	06
+	南橋供應商	Intel
+	南橋型號	H97
+	南橋修訂	00
+	系統溫度	36 °C
+		BIOS
+			廠牌	American Megatrends Inc.
+			版本	F7
+			日期	2015/8/3
+		電壓
+			CPU CORE	0.204 V
+			MEMORY CONTROLLER	2.052 V
+			VIN2	2.028 V
+			VIN3	2.040 V
+			VIN5	1.752 V
+			VIN6	1.548 V
+			VIN7	1.692 V
+		PCI 資料
+				插槽 PCI-E
+					插槽類型	PCI-E
+					插槽使用	使用中
+					資料通道	x16
+					插槽指定	J6B2
+					特性	3.3V, 共用, PME
+					插槽編號	0
+				插槽 PCI-E
+					插槽類型	PCI-E
+					插槽使用	使用中
+					資料通道	x1
+					插槽指定	J6B1
+					特性	3.3V, 共用, PME
+					插槽編號	1
+				插槽 PCI-E
+					插槽類型	PCI-E
+					插槽使用	使用中
+					資料通道	x8
+					插槽指定	J6D1
+					特性	3.3V, 共用, PME
+					插槽編號	2
+				插槽 PCI-E
+					插槽類型	PCI-E
+					插槽使用	使用中
+					資料通道	x16
+					插槽指定	J7B1
+					特性	3.3V, 共用, PME
+					插槽編號	3
+				插槽 PCI-E
+					插槽類型	PCI-E
+					插槽使用	使用中
+					資料通道	x1
+					插槽指定	J8B4
+					特性	3.3V, 共用, PME
+					插槽編號	4
+				插槽 PCI
+					插槽類型	PCI
+					插槽使用	使用中
+					匯流排頻寬	32 bit
+					插槽指定	J8B3
+					特性	3.3V, 共用, PME
+					插槽編號	5
+圖形裝置
+		螢幕
+			名稱	Generic Non-PnP Monitor on Microsoft Remote Display Adapter
+			目前的解析度	1920x1080 像素
+			可用的解析度	1920x1040 像素
+			狀態	已啟用, 主要, 遠端
+			螢幕寬度	1920
+			螢幕高度	1080
+			螢幕 BPP	每像素 32 位元
+			螢幕頻率	32 Hz
+			裝置	\\.\DISPLAY145\Monitor0
+		Intel HD Graphics 4600
+			製造商	Intel
+			型號	HD Graphics 4600
+			裝置識別碼	8086-0412
+			修訂	7
+			子供應商	Gigabyte (1458)
+			目前的效能等級	Level 0
+			驅動程式版本	20.19.15.4531
+				效能等級: 1
+					Level 1 - "Perf Level 0"
+儲存裝置
+		硬碟
+				WDC WD1003FZEX-00MK2A0
+					製造商	Western Digital
+					尺寸	TB/3.5-inch (new format)
+					磁頭	16
+					磁柱	121,601
+					磁軌	31,008,255
+					磁區	1,953,520,065
+					裝置類型	SATA-III 6.0Gb/s
+					裝置類型	固定式
+					ATA 標準	ACS2
+					序號	WD-WCC3FCSYC7V2
+					韌體版本號碼	01.01A01
+					LBA 大小	48 位元 LBA
+					總通電次數	597 次
+					總通電時間	1101.6 天
+					速度	7200 RPM
+					功能	S.M.A.R.T., NCQ
+					最大傳輸模式	SATA III 6.0Gb/s
+					使用的傳輸模式	SATA III 6.0Gb/s
+					介面	SATA
+					容量	931 GB
+					實際大小	1,000,204,886,016 位元組
+					RAID 類型	無
+						S.M.A.R.T
+							狀態	良
+							溫度	39 °C
+							溫度範圍	確定(不超過 50 °C)
+								S.M.A.R.T 屬性
+										01
+											屬性\xA0name	底層資料讀取錯誤率
+											真實值	0
+											目前	200
+											最差	200
+											臨界值	51
+											原始值	0000000000
+											狀態	良
+										03
+											屬性\xA0name	碟片啟動時間
+											真實值	2191 ms
+											目前	176
+											最差	175
+											臨界值	21
+											原始值	000000088F
+											狀態	良
+										04
+											屬性\xA0name	馬達啟動關閉次數
+											真實值	928
+											目前	100
+											最差	100
+											臨界值	0
+											原始值	00000003A0
+											狀態	良
+										05
+											屬性\xA0name	重定位磁區計數
+											真實值	0
+											目前	200
+											最差	200
+											臨界值	140
+											原始值	0000000000
+											狀態	良
+										07
+											屬性\xA0name	尋道錯誤率
+											真實值	0
+											目前	200
+											最差	200
+											臨界值	0
+											原始值	0000000000
+											狀態	良
+										09
+											屬性\xA0name	總通電時間
+											真實值	1101d 14h
+											目前	64
+											最差	64
+											臨界值	0
+											原始值	0000006746
+											狀態	良
+										0A
+											屬性\xA0name	啟動重試次數
+											真實值	0
+											目前	100
+											最差	100
+											臨界值	0
+											原始值	0000000000
+											狀態	良
+										0B
+											屬性\xA0name	磁頭校準重試
+											真實值	0
+											目前	100
+											最差	100
+											臨界值	0
+											原始值	0000000000
+											狀態	良
+										0C
+											屬性\xA0name	開關電源次數
+											真實值	597
+											目前	100
+											最差	100
+											臨界值	0
+											原始值	0000000255
+											狀態	良
+										C0
+											屬性\xA0name	電源關閉磁頭收回計數
+											真實值	140
+											目前	200
+											最差	200
+											臨界值	0
+											原始值	000000008C
+											狀態	良
+										C1
+											屬性\xA0name	載入/卸載迴圈計數
+											真實值	960
+											目前	200
+											最差	200
+											臨界值	0
+											原始值	00000003C0
+											狀態	良
+										C2
+											屬性\xA0name	溫度
+											真實值	39 °C
+											目前	104
+											最差	94
+											臨界值	0
+											原始值	0000000027
+											狀態	良
+										C4
+											屬性\xA0name	重定位事件計數
+											真實值	0
+											目前	200
+											最差	200
+											臨界值	0
+											原始值	0000000000
+											狀態	良
+										C5
+											屬性\xA0name	等候重定的磁區計數
+											真實值	0
+											目前	200
+											最差	200
+											臨界值	0
+											原始值	0000000000
+											狀態	良
+										C6
+											屬性\xA0name	無法校正的磁區計數
+											真實值	0
+											目前	200
+											最差	200
+											臨界值	0
+											原始值	0000000000
+											狀態	良
+										C7
+											屬性\xA0name	UltraDMA 高速傳輸模式錯誤次數
+											真實值	0
+											目前	200
+											最差	200
+											臨界值	0
+											原始值	0000000000
+											狀態	良
+										C8
+											屬性\xA0name	寫入錯誤率/多區域錯誤率
+											真實值	0
+											目前	200
+											最差	200
+											臨界值	0
+											原始值	0000000000
+											狀態	良
+						分割區 0
+							分割識別碼	Disk #0, Partition #0
+							檔案系統	NTFS
+							磁碟區序號	2256465C
+							大小	578 MB
+							已使用空間	34.9 MB (6%)
+							可用空間	544 MB (94%)
+						分割區 1
+							分割識別碼	Disk #0, Partition #1
+							磁碟代號	C:
+							檔案系統	NTFS
+							磁碟區序號	0C5B45E2
+							大小	930 GB
+							已使用空間	354 GB (38%)
+							可用空間	576 GB (62%)
+光碟機
+	未偵測到光碟機
+音訊
+		音效卡
+			High Definition Audio 裝置
+		播放裝置
+			遠端音訊
+週邊設備
+		遠端桌面鍵盤裝置
+			裝置種類	鍵盤
+			裝置名稱	遠端桌面鍵盤裝置
+			廠商	(標準系統裝置)
+			位置	UMBus Enumerator
+				驅動程式
+					日期	4-21-2009
+					版本	10.0.18362.1
+					檔案	C:\Windows\system32\DRIVERS\terminpt.sys
+					檔案	C:\Windows\system32\DRIVERS\kbdclass.sys
+		遠端桌面滑鼠裝置
+			裝置種類	滑鼠
+			裝置名稱	遠端桌面滑鼠裝置
+			廠商	(標準系統裝置)
+			位置	UMBus Enumerator
+				驅動程式
+					日期	4-21-2009
+					版本	10.0.18362.1
+					檔案	C:\Windows\system32\DRIVERS\terminpt.sys
+					檔案	C:\Windows\system32\DRIVERS\mouclass.sys
+		印表機
+				Fax
+					印表機連接埠	SHRFAX:
+					列印處理器	winprint
+					可用性	總是
+					優先順序	1
+					雙面	無
+					列印品質	200 * 200 dpi 單色
+					狀態	未知
+						驅動程式
+							驅動程式名稱	Microsoft Shared Fax Driver (v4.00)
+							驅動程式路徑	C:\Windows\system32\spool\DRIVERS\x64\3\FXSDRV.DLL
+				Microsoft Print to PDF
+					印表機連接埠	PORTPROMPT:
+					列印處理器	winprint
+					可用性	總是
+					優先順序	1
+					雙面	無
+					列印品質	600 * 600 dpi 色彩
+					狀態	未知
+						驅動程式
+							驅動程式名稱	Microsoft Print To PDF (v6.03)
+							驅動程式路徑	C:\Windows\System32\DriverStore\FileRepository\ntprint.inf_amd64_ce3301b66255a0fb\Amd64\mxdwdrv.dll
+				Microsoft XPS Document Writer
+					印表機連接埠	PORTPROMPT:
+					列印處理器	winprint
+					可用性	總是
+					優先順序	1
+					雙面	無
+					列印品質	600 * 600 dpi 色彩
+					狀態	未知
+						驅動程式
+							驅動程式名稱	Microsoft XPS Document Writer v4 (v6.03)
+							驅動程式路徑	C:\Windows\System32\DriverStore\FileRepository\ntprint.inf_amd64_ce3301b66255a0fb\Amd64\mxdwdrv.dll
+				OneNote
+					印表機連接埠	Microsoft.Office.OneNote_16001.12624.20042.0_x64__8wekyb3d8bbwe_microsoft.onenoteim_S-1-5-21-1061369796-588171115-3385678897-1001
+					列印處理器	winprint
+					可用性	總是
+					優先順序	1
+					雙面	無
+					列印品質	300 * 300 dpi 色彩
+					狀態	未知
+						驅動程式
+							驅動程式名稱	Microsoft Software Printer Driver (v6.03)
+							驅動程式路徑	C:\Windows\System32\DriverStore\FileRepository\ntprint.inf_amd64_ce3301b66255a0fb\Amd64\mxdwdrv.dll
+				AnyDesk Printer (重新導向 1)
+					印表機連接埠	TS006
+					列印處理器	winprint
+					可用性	總是
+					優先順序	1
+					雙面	無
+					列印品質	600 * 600 dpi 色彩
+					狀態	未知
+						驅動程式
+							驅動程式名稱	Remote Desktop Easy Print (v6.03)
+							驅動程式路徑	C:\Windows\system32\spool\DRIVERS\x64\3\mxdwdrv.dll
+				Fax (重新導向 1)
+					印表機連接埠	TS008
+					列印處理器	winprint
+					可用性	總是
+					優先順序	1
+					雙面	無
+					列印品質	200 * 200 dpi 單色
+					狀態	未知
+						驅動程式
+							驅動程式名稱	Remote Desktop Easy Print (v4.00)
+							驅動程式路徑	C:\Windows\system32\spool\DRIVERS\x64\3\mxdwdrv.dll
+				Canon MF260 Series UFRII LT(1) (重新導向 1)
+					印表機連接埠	TS007
+					列印處理器	winprint
+					可用性	總是
+					優先順序	1
+					雙面	長邊緣繫結
+					列印品質	600 dpi 單色
+					狀態	未知
+						驅動程式
+							驅動程式名稱	Remote Desktop Easy Print (v14.23)
+							驅動程式路徑	C:\Windows\system32\spool\DRIVERS\x64\3\mxdwdrv.dll
+				Canon MF260 Series (FAX) (重新導向 1)
+					印表機連接埠	TS009
+					列印處理器	winprint
+					可用性	總是
+					優先順序	1
+					雙面	無
+					列印品質	200 dpi 單色
+					狀態	未知
+						驅動程式
+							驅動程式名稱	Remote Desktop Easy Print (v10.114)
+							驅動程式路徑	C:\Windows\system32\spool\DRIVERS\x64\3\mxdwdrv.dll
+				Canon MF260 Series UFRII LT (重新導向 1) (預設印表機)
+					印表機連接埠	TS010
+					列印處理器	winprint
+					可用性	總是
+					優先順序	1
+					雙面	長邊緣繫結
+					列印品質	600 dpi 單色
+					狀態	未知
+						驅動程式
+							驅動程式名稱	Remote Desktop Easy Print (v14.23)
+							驅動程式路徑	C:\Windows\system32\spool\DRIVERS\x64\3\mxdwdrv.dll
+				PDFCreator (重新導向 1)
+					印表機連接埠	TS014
+					列印處理器	winprint
+					可用性	總是
+					優先順序	1
+					雙面	無
+					列印品質	600 * 600 dpi 色彩
+					狀態	未知
+						驅動程式
+							驅動程式名稱	Remote Desktop Easy Print (v6.03)
+							驅動程式路徑	C:\Windows\system32\spool\DRIVERS\x64\3\mxdwdrv.dll
+				Foxit Reader PDF Printer (重新導向 1)
+					印表機連接埠	TS012
+					列印處理器	winprint
+					可用性	總是
+					優先順序	1
+					雙面	無
+					列印品質	600 * 600 dpi 色彩
+					狀態	未知
+						驅動程式
+							驅動程式名稱	Remote Desktop Easy Print (v4.01)
+							驅動程式路徑	C:\Windows\system32\spool\DRIVERS\x64\3\mxdwdrv.dll
+				Microsoft XPS Document Writer (重新導向 1)
+					印表機連接埠	TS013
+					列印處理器	winprint
+					可用性	總是
+					優先順序	1
+					雙面	無
+					列印品質	600 * 600 dpi 色彩
+					狀態	未知
+						驅動程式
+							驅動程式名稱	Remote Desktop Easy Print (v6.03)
+							驅動程式路徑	C:\Windows\system32\spool\DRIVERS\x64\3\mxdwdrv.dll
+				Microsoft Print to PDF (重新導向 1)
+					印表機連接埠	TS011
+					列印處理器	winprint
+					可用性	總是
+					優先順序	1
+					雙面	無
+					列印品質	600 * 600 dpi 色彩
+					狀態	未知
+						驅動程式
+							驅動程式名稱	Remote Desktop Easy Print (v6.03)
+							驅動程式路徑	C:\Windows\system32\spool\DRIVERS\x64\3\mxdwdrv.dll
+				OneNote (Desktop) (重新導向 1)
+					印表機連接埠	TS015
+					列印處理器	winprint
+					可用性	總是
+					優先順序	1
+					雙面	無
+					列印品質	600 * 600 dpi 色彩
+					狀態	未知
+						驅動程式
+							驅動程式名稱	Remote Desktop Easy Print (v6.03)
+							驅動程式路徑	C:\Windows\system32\spool\DRIVERS\x64\3\mxdwdrv.dll
+				OneNote for Windows 10 (重新導向 1)
+					印表機連接埠	TS016
+					列印處理器	winprint
+					可用性	總是
+					優先順序	1
+					雙面	無
+					列印品質	300 * 300 dpi 色彩
+					狀態	未知
+						驅動程式
+							驅動程式名稱	Remote Desktop Easy Print (v6.03)
+							驅動程式路徑	C:\Windows\system32\spool\DRIVERS\x64\3\mxdwdrv.dll
+網路
+	您已連線到網際網路
+	已連線透過	Realtek PCIe GbE Family Controller
+	IP 位址	203.145.206.38
+	子網路遮罩	255.255.255.0
+	閘道伺服器	203.145.206.62
+	慣用 DNS 伺服器	8.8.8.8
+	其他 DNS 伺服器	8.8.4.4
+	DHCP	已停用
+	外部 IP 位址	203.145.206.38
+	介面卡類型	乙太網路
+	TCP/IP 上的 NetBIOS	透過 DHCP 啟用
+	NETBIOS 節點類型	混合式節點
+	連結速度	5.3 KBps
+		電腦名稱
+			NetBIOS 名稱	DESKTOP-N49RS40
+			DNS 名稱	DESKTOP-N49RS40
+			成員	工作群組的一部分
+			工作群組	WORKGROUP
+		遠端桌面
+			已啟用
+				RDP-Tcp#40
+					狀態	作用中
+					網域	DESKTOP-N49RS40
+				Console
+					狀態	已連線
+				RDP-Tcp
+					狀態	接聽
+		WinInet 資訊
+			LAN 連線
+			本機系統使用本機區域網路連線至網際網路
+			本機系統有 RAS 連線至網際網路
+		Wi-Fi 資訊
+			Wi-Fi 未啟用
+		WinHTTP 資訊
+			WinHTTP 連線代理伺服器類型	無代理伺服器
+			連線代理伺服器
+			連線代理伺服器略過
+			連線重試次數	5
+			連線逾時(毫秒)	60,000
+			HTTP 版本	HTTP 1.1
+			每個 1.0 伺服器的最大連線數	無限制
+			每個伺服器的最大連線數	無限制
+			最大 HTTP 自動重新導向	10
+			最大 HTTP　狀態繼續	10
+			傳送逾時(毫秒)	30,000
+			IE Proxy 自動偵測	是
+			IP Proxy 自動設定
+			IE Proxy
+			IE Proxy 略過
+			預設代理伺服器設定存取類型	無代理伺服器
+			預設設定代理伺服器
+			預設設定代理伺服器略過
+		共用及搜索
+			網路探索	已停用
+			檔案及印表機共用	已停用
+			檔案和印表機共用服務	已啟用
+			簡易檔案共用	已啟用
+			系統管理共用	已啟用
+			網路存取: 共用和安全性模式用於本機帳戶	傳統 - 本機使用者以自身身分驗證
+		介面卡清單
+				已啟用
+						Realtek PCIe GbE Family Controller
+							連線特定的 DNS 尾碼	niu.edu.tw
+							連線名稱	乙太網路
+							TCP/IP 通訊協定中的 NetBIOS 通訊協定	是
+							DHCP 已啟用	否
+							MAC 位址	40-8D-5C-7C-4D-1E
+							IP 位址	203.145.206.38
+							子網路遮罩	255.255.255.0
+							閘道伺服器	203.145.206.62
+							DNS 伺服器	8.8.8.8
+							8.8.4.4
+		網路共用
+			No network shares
+		目前的 TCP 連線
+				C:\Program Files (x86)\Google\Chrome\Application\chrome.exe (1868)
+					本機 203.145.206.38:52351	CLOSE-WAIT 遠端 120.101.10.216:80 (查詢中... ) (HTTP)
+					本機 203.145.206.38:52353	ESTABLISHED 遠端 23.111.9.35:443 (查詢中... ) (HTTPS)
+				C:\Windows\System32\MicrosoftEdgeCP.exe (4072)
+					本機 203.145.206.38:64277	CLOSE-WAIT 遠端 23.199.34.66:80 (查詢中... ) (HTTP)
+					本機 203.145.206.38:64255	CLOSE-WAIT 遠端 23.76.91.160:443 (查詢中... ) (HTTPS)
+					本機 203.145.206.38:64259	CLOSE-WAIT 遠端 18.139.144.72:443 (查詢中... ) (HTTPS)
+					本機 203.145.206.38:64265	CLOSE-WAIT 遠端 151.101.77.44:443 (查詢中... ) (HTTPS)
+					本機 203.145.206.38:64266	CLOSE-WAIT 遠端 117.18.237.29:80 (查詢中... ) (HTTP)
+					本機 203.145.206.38:64267	CLOSE-WAIT 遠端 151.101.77.44:443 (查詢中... ) (HTTPS)
+					本機 203.145.206.38:64268	CLOSE-WAIT 遠端 209.191.163.210:443 (查詢中... ) (HTTPS)
+					本機 203.145.206.38:64270	CLOSE-WAIT 遠端 38.133.127.95:443 (查詢中... ) (HTTPS)
+					本機 203.145.206.38:64271	CLOSE-WAIT 遠端 38.133.127.95:443 (查詢中... ) (HTTPS)
+					本機 203.145.206.38:64272	CLOSE-WAIT 遠端 38.133.127.95:443 (查詢中... ) (HTTPS)
+					本機 203.145.206.38:64273	CLOSE-WAIT 遠端 151.101.78.217:443 (查詢中... ) (HTTPS)
+					本機 203.145.206.38:64276	CLOSE-WAIT 遠端 192.124.249.22:80 (查詢中... ) (HTTP)
+				httpd.exe (2356)
+					本機 127.0.0.1:64314	ESTABLISHED 遠端 127.0.0.1:27017 (查詢中... )
+				httpd.exe (6600)
+					本機 0.0.0.0:443 (HTTPS)	LISTEN
+					本機 0.0.0.0:80 (HTTP)	LISTEN
+				lsass.exe (708)
+					本機 0.0.0.0:49664	LISTEN
+				mongod.exe (3792)
+					本機 0.0.0.0:27017	LISTEN
+					本機 127.0.0.1:27017	ESTABLISHED 遠端 127.0.0.1:64314 (查詢中... )
+				services.exe (692)
+					本機 0.0.0.0:49670	LISTEN
+				spoolsv.exe (3032)
+					本機 0.0.0.0:49669	LISTEN
+				svchost.exe (1108)
+					本機 203.145.206.38:3389	ESTABLISHED 遠端 203.145.206.6:58843 (查詢中... )
+					本機 0.0.0.0:3389	LISTEN
+				svchost.exe (1184)
+					本機 0.0.0.0:49666	LISTEN
+				svchost.exe (1780)
+					本機 0.0.0.0:49668	LISTEN
+				svchost.exe (2088)
+					本機 0.0.0.0:49667	LISTEN
+				svchost.exe (3340)
+					本機 203.145.206.38:55964	ESTABLISHED 遠端 40.90.189.152:443 (查詢中... ) (HTTPS)
+				svchost.exe (444)
+					本機 0.0.0.0:135 (DCE)	LISTEN
+				svchost.exe (5956)
+					本機 0.0.0.0:5040	LISTEN
+				System Process
+					本機 203.145.206.38:52340	TIME-WAIT 遠端 104.215.197.41:443 (查詢中... ) (HTTPS)
+					本機 203.145.206.38:52313	TIME-WAIT 遠端 120.101.10.216:80 (查詢中... ) (HTTP)
+				System Process
+					本機 0.0.0.0:445 (Windows shares)	LISTEN
+					本機 203.145.206.38:139 (NetBIOS session service)	LISTEN
+				wininit.exe (620)
+					本機 0.0.0.0:49665	LISTEN
+使用 Speccy v1.32.740 產生
