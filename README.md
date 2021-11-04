@@ -12,6 +12,9 @@
 >5.	使用Django、RWD、Ajax、Bootstrap、Chart.js等完成前端網頁
 >6.	將成果部屬至Ngrok供使用者使用
 
+### Run Code：
+`python manage.py runserver` 
+
 ###  成果截圖：
 線上文章相似度比較系統-主頁面<br>
 ![1](https://user-images.githubusercontent.com/58781800/140347158-0e4a34f7-c52a-49c0-9a42-3ed60a498586.png)
