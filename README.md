@@ -13,7 +13,11 @@
 >6.	將成果部屬至Ngrok供使用者使用
 
 ### Run Code：
-`python manage.py runserver` 
+```
+git clone https://github.com/Sheng08/Online-article-similarity-comparison-tool.git
+cd Online-article-similarity-comparison-tool
+python manage.py runserver
+``` 
 
 ###  成果截圖：
 線上文章相似度比較系統-主頁面<br>
